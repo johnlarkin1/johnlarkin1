@@ -1,0 +1,36 @@
+[
+  {
+    "type": "normal",
+    "fileName": "moss-stone-day.svg",
+    "backgroundColor": "#f5f3ef",
+    "foregroundColor": "#3d3d3a",
+    "strongColor": "#1f1f1c",
+    "weakColor": "#9c9a8e",
+    "radarColor": "#5f7c5e",
+    "growingAnimation": true,
+    "contribColors": [
+      "#e8e5df",
+      "#c4d4a5",
+      "#8faa7a",
+      "#5f7c5e",
+      "#3d5a3c"
+    ]
+  },
+  {
+    "type": "normal",
+    "fileName": "moss-stone-night.svg",
+    "backgroundColor": "#1a1c19",
+    "foregroundColor": "#c5c7c0",
+    "strongColor": "#e8eae5",
+    "weakColor": "#5a5d56",
+    "radarColor": "#86a085",
+    "growingAnimation": true,
+    "contribColors": [
+      "#252824",
+      "#3d5a3c",
+      "#5f7c5e",
+      "#86a085",
+      "#b8d4a5"
+    ]
+  }
+]

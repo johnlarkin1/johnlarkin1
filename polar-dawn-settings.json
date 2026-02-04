@@ -1,0 +1,36 @@
+[
+  {
+    "type": "normal",
+    "fileName": "polar-dawn-day.svg",
+    "backgroundColor": "#f8fafc",
+    "foregroundColor": "#1e293b",
+    "strongColor": "#0f172a",
+    "weakColor": "#94a3b8",
+    "radarColor": "#3b82f6",
+    "growingAnimation": true,
+    "contribColors": [
+      "#e2e8f0",
+      "#bfdbfe",
+      "#60a5fa",
+      "#3b82f6",
+      "#1d4ed8"
+    ]
+  },
+  {
+    "type": "normal",
+    "fileName": "polar-dawn-night.svg",
+    "backgroundColor": "#0f172a",
+    "foregroundColor": "#cbd5e1",
+    "strongColor": "#f1f5f9",
+    "weakColor": "#475569",
+    "radarColor": "#60a5fa",
+    "growingAnimation": true,
+    "contribColors": [
+      "#1e293b",
+      "#1e3a5f",
+      "#2563eb",
+      "#60a5fa",
+      "#93c5fd"
+    ]
+  }
+]

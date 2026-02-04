@@ -1,0 +1,42 @@
+[
+  {
+    "type": "rainbow",
+    "fileName": "neon-sunset-day.svg",
+    "backgroundColor": "#fefbff",
+    "foregroundColor": "#3b2d4a",
+    "strongColor": "#1a1025",
+    "weakColor": "#a89bb8",
+    "radarColor": "#db2777",
+    "growingAnimation": true,
+    "saturation": "65%",
+    "contribLightness": [
+      "90%",
+      "75%",
+      "60%",
+      "48%",
+      "38%"
+    ],
+    "duration": "12s",
+    "hueRatio": -5
+  },
+  {
+    "type": "rainbow",
+    "fileName": "neon-sunset-night.svg",
+    "backgroundColor": "#0c0a1d",
+    "foregroundColor": "#f1e5ff",
+    "strongColor": "#fbbf24",
+    "weakColor": "#6b5b7a",
+    "radarColor": "#f472b6",
+    "growingAnimation": true,
+    "saturation": "72%",
+    "contribLightness": [
+      "18%",
+      "32%",
+      "44%",
+      "56%",
+      "68%"
+    ],
+    "duration": "12s",
+    "hueRatio": -5
+  }
+]

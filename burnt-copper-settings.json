@@ -1,0 +1,36 @@
+[
+  {
+    "type": "normal",
+    "fileName": "burnt-copper-day.svg",
+    "backgroundColor": "#faf6f1",
+    "foregroundColor": "#4a3728",
+    "strongColor": "#2d1f15",
+    "weakColor": "#b8a692",
+    "radarColor": "#b45309",
+    "growingAnimation": true,
+    "contribColors": [
+      "#f5ebe0",
+      "#e8c9a0",
+      "#d4a574",
+      "#b45309",
+      "#92400e"
+    ]
+  },
+  {
+    "type": "normal",
+    "fileName": "burnt-copper-night.svg",
+    "backgroundColor": "#1a1612",
+    "foregroundColor": "#d4c4b0",
+    "strongColor": "#f5e6d3",
+    "weakColor": "#5c4d3d",
+    "radarColor": "#cd7f32",
+    "growingAnimation": true,
+    "contribColors": [
+      "#2a2420",
+      "#5c3d2e",
+      "#8b5a3c",
+      "#cd7f32",
+      "#e8a54b"
+    ]
+  }
+]

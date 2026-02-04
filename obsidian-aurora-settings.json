@@ -1,0 +1,36 @@
+[
+  {
+    "type": "normal",
+    "fileName": "obsidian-aurora-day.svg",
+    "backgroundColor": "#f0f4f8",
+    "foregroundColor": "#1e3a4c",
+    "strongColor": "#0a1f2e",
+    "weakColor": "#8fa3b0",
+    "radarColor": "#0891b2",
+    "growingAnimation": true,
+    "contribColors": [
+      "#e2e8f0",
+      "#99f6e4",
+      "#2dd4bf",
+      "#14b8a6",
+      "#0d9488"
+    ]
+  },
+  {
+    "type": "normal",
+    "fileName": "obsidian-aurora-night.svg",
+    "backgroundColor": "#0a0a0f",
+    "foregroundColor": "#c4c9d4",
+    "strongColor": "#e8ecf5",
+    "weakColor": "#3d4152",
+    "radarColor": "#7dd3fc",
+    "growingAnimation": true,
+    "contribColors": [
+      "#16181d",
+      "#1e4d5c",
+      "#2d8a8a",
+      "#5eead4",
+      "#a7f3d0"
+    ]
+  }
+]

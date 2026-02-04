@@ -1,0 +1,36 @@
+[
+  {
+    "type": "normal",
+    "fileName": "midnight-bloom-day.svg",
+    "backgroundColor": "#fdf4ff",
+    "foregroundColor": "#4a1d6b",
+    "strongColor": "#2e0f45",
+    "weakColor": "#c4a8d4",
+    "radarColor": "#c026d3",
+    "growingAnimation": true,
+    "contribColors": [
+      "#fae8ff",
+      "#f0abfc",
+      "#d946ef",
+      "#a855f7",
+      "#7c3aed"
+    ]
+  },
+  {
+    "type": "normal",
+    "fileName": "midnight-bloom-night.svg",
+    "backgroundColor": "#0f0518",
+    "foregroundColor": "#e0d6eb",
+    "strongColor": "#f9f4ff",
+    "weakColor": "#5a4b6b",
+    "radarColor": "#d946ef",
+    "growingAnimation": true,
+    "contribColors": [
+      "#1a0f24",
+      "#4c1d6e",
+      "#9333ea",
+      "#d946ef",
+      "#f0abfc"
+    ]
+  }
+]
