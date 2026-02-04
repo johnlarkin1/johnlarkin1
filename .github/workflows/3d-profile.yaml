@@ -21,7 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
-          SETTINGS: ./default-profile-settings.json
+          SETTING_JSON: ./default-profile-settings.json
 
       - name: Commit and push changes
         run: |

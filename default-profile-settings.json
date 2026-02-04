@@ -1,7 +1,7 @@
 [
     {
       "type": "normal",
-      "fileName": "profile-3d-contrib-light.svg",
+      "fileName": "day.svg",
       "backgroundColor": "#fafaf9",
       "foregroundColor": "#292524",
       "strongColor": "#0c0a09",
@@ -18,7 +18,7 @@
     },
     {
       "type": "rainbow",
-      "fileName": "profile-3d-contrib-dark.svg",
+      "fileName": "night.svg",
       "backgroundColor": "#0c0a1d",
       "foregroundColor": "#e2e1f5",
       "strongColor": "#fbbf24",
