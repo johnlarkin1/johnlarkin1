@@ -19,6 +19,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: default-profile-settings.json
+          EXCLUDED_LANGUAGES: HTML
 
       - name: generate obsidian-aurora profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -27,6 +28,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: obsidian-aurora-settings.json
+          EXCLUDED_LANGUAGES: HTML
 
       - name: generate burnt-copper profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -35,6 +37,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: burnt-copper-settings.json
+          EXCLUDED_LANGUAGES: HTML
 
       - name: generate polar-dawn profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -43,6 +46,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: polar-dawn-settings.json
+          EXCLUDED_LANGUAGES: HTML
 
       - name: generate neon-sunset profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -51,6 +55,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: neon-sunset-settings.json
+          EXCLUDED_LANGUAGES: HTML
 
       - name: generate moss-stone profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -59,6 +64,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: moss-stone-settings.json
+          EXCLUDED_LANGUAGES: HTML
 
       - name: generate midnight-bloom profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -67,6 +73,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: midnight-bloom-settings.json
+          EXCLUDED_LANGUAGES: HTML
 
       - name: Commit and push all profiles
         run: |
