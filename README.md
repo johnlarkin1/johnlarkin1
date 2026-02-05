@@ -6,4 +6,4 @@
 	</picture>
 </p>
 
-Hi, I'm John. I love building performant systems, quantitative problems, and lots of data.
+Hi, I'm John. I love building performant systems, quantitative problems, and lots of data. Feel free to check out [my blog](https://johnlarkin1.github.io/) for more meandering thoughts.
