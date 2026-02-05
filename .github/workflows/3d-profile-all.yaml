@@ -1,6 +1,9 @@
 name: generate all 3d profiles
 
 on:
+  schedule:
+    # midnight est is 0500 utc
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 permissions:
