@@ -22,7 +22,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: default-profile-settings.json
-          EXCLUDED_LANGUAGES: HTML
+          EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
 
       - name: generate obsidian-aurora profile
@@ -32,7 +32,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: obsidian-aurora-settings.json
-          EXCLUDED_LANGUAGES: HTML
+          EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
 
       - name: generate burnt-copper profile
@@ -42,7 +42,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: burnt-copper-settings.json
-          EXCLUDED_LANGUAGES: HTML
+          EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
 
       - name: generate polar-dawn profile
@@ -52,7 +52,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: polar-dawn-settings.json
-          EXCLUDED_LANGUAGES: HTML
+          EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
 
       - name: generate neon-sunset profile
@@ -62,7 +62,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: neon-sunset-settings.json
-          EXCLUDED_LANGUAGES: HTML
+          EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
 
       - name: generate moss-stone profile
@@ -72,7 +72,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: moss-stone-settings.json
-          EXCLUDED_LANGUAGES: HTML
+          EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
 
       - name: generate midnight-bloom profile
@@ -82,7 +82,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: midnight-bloom-settings.json
-          EXCLUDED_LANGUAGES: HTML
+          EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
 
       - name: Commit and push all profiles
