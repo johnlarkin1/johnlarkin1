@@ -22,7 +22,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: ./default-profile-settings.json
-          EXCLUDED_LANGUAGES: HTML
+          EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
 
       - name: Commit and push changes
