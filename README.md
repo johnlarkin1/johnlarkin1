@@ -6,4 +6,4 @@
 	</picture>
 </p>
 
-Hi, I'm John. I love building performant systems, quantitative problems, and lots of data. Feel free to check out [my blog](https://johnlarkin1.github.io/) for more meandering thoughts.
+Hi, I'm John. I love building performant systems, quantitative problems, and lots of data. Feel free to check out [my blog](https://johnlarkin1.github.io/) for more meandering thoughts. Or check out [my vanity blog](https://larkin-vanity-mirror.vercel.app/) for more metrics / details about what I've been working on.
