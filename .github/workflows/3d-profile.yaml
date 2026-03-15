@@ -18,7 +18,7 @@ jobs:
       - name: generate 3d profile contrib 
         uses: johnlarkin1/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHA_PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: ./default-profile-settings.json
