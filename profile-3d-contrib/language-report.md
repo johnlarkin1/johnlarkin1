@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-03-15T15:11:22.340Z
+Generated: 2026-03-15T15:32:29.745Z
 
 - **Repos analyzed:** 51
 - **Repos skipped** (no language data or all excluded): 8
@@ -10,18 +10,18 @@ Generated: 2026-03-15T15:11:22.340Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 470.92 | 42.4% | 21 |
-| 2 | Python | 237.18 | 21.4% | 32 |
-| 3 | Rust | 151.25 | 13.6% | 8 |
+| 1 | TypeScript | 470.85 | 42.3% | 21 |
+| 2 | Python | 237.16 | 21.3% | 32 |
+| 3 | Rust | 151.19 | 13.6% | 8 |
 | 4 | JavaScript | 98.55 | 8.9% | 24 |
-| 5 | Swift | 93.42 | 8.4% | 5 |
+| 5 | Swift | 95.58 | 8.6% | 5 |
 | 6 | Shell | 29.56 | 2.7% | 18 |
 | 7 | Makefile | 9.00 | 0.8% | 25 |
 | 8 | Jinja | 4.47 | 0.4% | 2 |
 | 9 | Jupyter Notebook | 4.44 | 0.4% | 2 |
 | 10 | MDX | 4.08 | 0.4% | 4 |
 | 11 | HCL | 3.44 | 0.3% | 3 |
-| 12 | Ruby | 1.28 | 0.1% | 2 |
+| 12 | Ruby | 1.27 | 0.1% | 2 |
 | 13 | PLpgSQL | 1.25 | 0.1% | 1 |
 | 14 | Go | 0.76 | 0.1% | 1 |
 | 15 | Dockerfile | 0.27 | 0.0% | 4 |
@@ -30,7 +30,7 @@ Generated: 2026-03-15T15:11:22.340Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 42.4%
+### TypeScript — 42.3%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -46,7 +46,7 @@ Generated: 2026-03-15T15:11:22.340Z
 | Rebar-Team/app | 12.99 | 10.1 MB |
 | ... and 11 more repos | | |
 
-### Python — 21.4%
+### Python — 21.3%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -70,7 +70,7 @@ Generated: 2026-03-15T15:11:22.340Z
 | johnlarkin1/antssembly-moment | 20.17 | 128.2 KB |
 | johnlarkin1/walk-in-the-parquet | 6.07 | 72.5 KB |
 | johnlarkin1/topspin-trading | 4.91 | 228.9 KB |
-| johnlarkin1/odyssey | 3.92 | 35.6 KB |
+| johnlarkin1/odyssey | 3.87 | 35.6 KB |
 | johnlarkin1/larkin-mcp | 3.32 | 21.1 KB |
 | johnlarkin1/disjoint-set-union | 2 | 14.9 KB |
 | johnlarkin1/foom | 1.85 | 219.9 KB |
@@ -91,11 +91,11 @@ Generated: 2026-03-15T15:11:22.340Z
 | johnlarkin1/larkin-vanity-mirror | 0.50 | 7.3 KB |
 | ... and 14 more repos | | |
 
-### Swift — 8.4%
+### Swift — 8.6%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| johnlarkin1/odyssey | 60.45 | 548.8 KB |
+| johnlarkin1/odyssey | 62.61 | 576.7 KB |
 | johnlarkin1/afuera | 12.68 | 133.8 KB |
 | doe-ai/doe-mono | 10.27 | 330.4 KB |
 | doe-ai/doe-app | 9.06 | 142.3 KB |
@@ -122,7 +122,7 @@ Generated: 2026-03-15T15:11:22.340Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/larkin-mcp | 1.57 | 10.0 KB |
-| johnlarkin1/odyssey | 1.26 | 11.5 KB |
+| johnlarkin1/odyssey | 1.27 | 11.7 KB |
 | johnlarkin1/afuera | 1.06 | 11.2 KB |
 | johnlarkin1/be-right-back-internal | 1.00 | 9.0 KB |
 | johnlarkin1/tennis-scorigami | 0.73 | 4.0 KB |
@@ -168,7 +168,7 @@ Generated: 2026-03-15T15:11:22.340Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| johnlarkin1/odyssey | 0.77 | 7.0 KB |
+| johnlarkin1/odyssey | 0.75 | 7.0 KB |
 | johnlarkin1/johnlarkin1.github.io | 0.51 | 1022 B |
 
 ### PLpgSQL — 0.1%
@@ -248,18 +248,18 @@ Generated: 2026-03-15T15:11:22.340Z
 | Shell | 197 B | 0.1% | 0.10 |
 | Makefile | 1.1 KB | 0.7% | 0.58 |
 
-### johnlarkin1/odyssey — 73 commits
+### johnlarkin1/odyssey — 75 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| Swift | 548.8 KB | 82.8% | 60.45 |
-| Makefile | 11.5 KB | 1.7% | 1.26 |
-| TypeScript | 48.6 KB | 7.3% | 5.35 |
+| Swift | 576.7 KB | 83.5% | 62.61 |
+| Makefile | 11.7 KB | 1.7% | 1.27 |
+| TypeScript | 48.6 KB | 7.0% | 5.27 |
 | Dockerfile | 696 B | 0.1% | 0.07 |
-| Rust | 35.6 KB | 5.4% | 3.92 |
-| Ruby | 7.0 KB | 1.0% | 0.77 |
+| Rust | 35.6 KB | 5.2% | 3.87 |
+| Ruby | 7.0 KB | 1.0% | 0.75 |
 | JavaScript | 559 B | 0.1% | 0.06 |
-| Python | 10.1 KB | 1.5% | 1.11 |
+| Python | 10.1 KB | 1.5% | 1.09 |
 
 ### scrollz-app/scrollz — 46 commits
 
