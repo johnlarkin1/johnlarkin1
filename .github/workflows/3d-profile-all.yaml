@@ -24,7 +24,7 @@ jobs:
           SETTING_JSON: default-profile-settings.json
           EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
-          LANGUAGE_COLORS: TypeScript:#3178c6,Python:#FFD43B,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
+          LANGUAGE_COLORS: TypeScript:#3178C6,Python:#FFD43B,Rust:#CE422B,JavaScript:#BC8CFF,Swift:#FF6723,Shell:#56D364,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
 
       - name: generate obsidian-aurora profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -35,7 +35,7 @@ jobs:
           SETTING_JSON: obsidian-aurora-settings.json
           EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
-          LANGUAGE_COLORS: TypeScript:#3178c6,Python:#FFD43B,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
+          LANGUAGE_COLORS: TypeScript:#3178C6,Python:#FFD43B,Rust:#CE422B,JavaScript:#BC8CFF,Swift:#FF6723,Shell:#56D364,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
 
       - name: generate burnt-copper profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -46,7 +46,7 @@ jobs:
           SETTING_JSON: burnt-copper-settings.json
           EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
-          LANGUAGE_COLORS: TypeScript:#3178c6,Python:#FFD43B,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
+          LANGUAGE_COLORS: TypeScript:#3178C6,Python:#FFD43B,Rust:#CE422B,JavaScript:#BC8CFF,Swift:#FF6723,Shell:#56D364,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
 
       - name: generate polar-dawn profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -57,7 +57,7 @@ jobs:
           SETTING_JSON: polar-dawn-settings.json
           EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
-          LANGUAGE_COLORS: TypeScript:#3178c6,Python:#FFD43B,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
+          LANGUAGE_COLORS: TypeScript:#3178C6,Python:#FFD43B,Rust:#CE422B,JavaScript:#BC8CFF,Swift:#FF6723,Shell:#56D364,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
 
       - name: generate neon-sunset profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -68,7 +68,7 @@ jobs:
           SETTING_JSON: neon-sunset-settings.json
           EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
-          LANGUAGE_COLORS: TypeScript:#3178c6,Python:#FFD43B,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
+          LANGUAGE_COLORS: TypeScript:#3178C6,Python:#FFD43B,Rust:#CE422B,JavaScript:#BC8CFF,Swift:#FF6723,Shell:#56D364,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
 
       - name: generate moss-stone profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -79,7 +79,7 @@ jobs:
           SETTING_JSON: moss-stone-settings.json
           EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
-          LANGUAGE_COLORS: TypeScript:#3178c6,Python:#FFD43B,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
+          LANGUAGE_COLORS: TypeScript:#3178C6,Python:#FFD43B,Rust:#CE422B,JavaScript:#BC8CFF,Swift:#FF6723,Shell:#56D364,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
 
       - name: generate midnight-bloom profile
         uses: johnlarkin1/github-profile-3d-contrib@main
@@ -90,7 +90,7 @@ jobs:
           SETTING_JSON: midnight-bloom-settings.json
           EXCLUDED_LANGUAGES: HTML,SCSS
           MAX_LANGUAGES: 6
-          LANGUAGE_COLORS: TypeScript:#3178c6,Python:#FFD43B,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
+          LANGUAGE_COLORS: TypeScript:#3178C6,Python:#FFD43B,Rust:#CE422B,JavaScript:#BC8CFF,Swift:#FF6723,Shell:#56D364,Java:#ED8B00,Kotlin:#7F52FF,Perl:#39457E,Ruby:#CC342D,C:#A8B9CC,Jupyter Notebook:#F37626
 
       - name: Commit and push all profiles
         run: |
