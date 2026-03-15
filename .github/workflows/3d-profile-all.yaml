@@ -18,7 +18,7 @@ jobs:
       - name: generate default profile
         uses: johnlarkin1/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHA_PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: default-profile-settings.json
@@ -28,7 +28,7 @@ jobs:
       - name: generate obsidian-aurora profile
         uses: johnlarkin1/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHA_PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: obsidian-aurora-settings.json
@@ -38,7 +38,7 @@ jobs:
       - name: generate burnt-copper profile
         uses: johnlarkin1/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHA_PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: burnt-copper-settings.json
@@ -48,7 +48,7 @@ jobs:
       - name: generate polar-dawn profile
         uses: johnlarkin1/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHA_PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: polar-dawn-settings.json
@@ -58,7 +58,7 @@ jobs:
       - name: generate neon-sunset profile
         uses: johnlarkin1/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHA_PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: neon-sunset-settings.json
@@ -68,7 +68,7 @@ jobs:
       - name: generate moss-stone profile
         uses: johnlarkin1/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHA_PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: moss-stone-settings.json
@@ -78,7 +78,7 @@ jobs:
       - name: generate midnight-bloom profile
         uses: johnlarkin1/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHA_PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 150
           SETTING_JSON: midnight-bloom-settings.json
