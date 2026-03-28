@@ -14,5 +14,7 @@ Hi, I'm John. I love building performant systems, quantitative problems, and dat
 - [Walk in the Parquet](https://www.walkintheparquet.com/)
 - [Larkin Vanity Mirror](https://larkin-vanity-mirror.vercel.app/)
 - [Scrollz](https://scrollz.co)
-- [CodexBar](https://github.com/johnlarkin1/CodexBar) - forked and improved with simplified keychain auth, color-coded usage icons, weekly projections with Apple Charts, and macOS 26 Liquid Glass compatibility
-- [iMessage Data Foundry](https://github.com/johnlarkin1/imessage-data-foundry) - synthetic data generator for iMessage and AddressBook sqlite databases
+- [CodexBar](https://github.com/johnlarkin1/CodexBar)
+  - my own little spin. forked and improved with simplified keychain auth, color-coded usage icons, weekly projections with Apple Charts, and ensuring macos26 coloring compat
+- [iMessage Data Foundry](https://github.com/johnlarkin1/imessage-data-foundry)
+  - synth data gen for iMessage and AddressBook sqlite databases. really just built for another project
