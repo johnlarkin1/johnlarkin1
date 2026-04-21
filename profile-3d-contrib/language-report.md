@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-04-20T07:13:29.551Z
+Generated: 2026-04-21T06:55:45.506Z
 
 - **Repos analyzed:** 56
 - **Repos skipped** (no language data or all excluded): 9
@@ -10,10 +10,10 @@ Generated: 2026-04-20T07:13:29.551Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 663.90 | 45.7% | 19 |
+| 1 | TypeScript | 665.89 | 45.8% | 19 |
 | 2 | Python | 292.48 | 20.1% | 40 |
 | 3 | Swift | 169.76 | 11.7% | 3 |
-| 4 | Rust | 146.20 | 10.1% | 8 |
+| 4 | Rust | 146.20 | 10.0% | 8 |
 | 5 | JavaScript | 105.70 | 7.3% | 24 |
 | 6 | Shell | 29.87 | 2.1% | 25 |
 | 7 | Makefile | 15.94 | 1.1% | 30 |
@@ -36,13 +36,13 @@ Generated: 2026-04-20T07:13:29.551Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 45.7%
+### TypeScript — 45.8%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/tennis-scorigami | 114.38 | 627.9 KB |
 | johnlarkin1/be-right-back-internal | 112.60 | 1.0 MB |
-| Rebar-Team/app | 102.72 | 10.8 MB |
+| Rebar-Team/app | 104.72 | 10.8 MB |
 | johnlarkin1/tennis-scorigami-internal | 79.67 | 728.8 KB |
 | johnlarkin1/afuera | 45.37 | 373.4 KB |
 | johnlarkin1/onco-menopause-risk-calculator | 45.33 | 192.8 KB |
@@ -76,7 +76,7 @@ Generated: 2026-04-20T07:13:29.551Z
 | johnlarkin1/afuera | 38.61 | 317.8 KB |
 | doe-ai/doe-mono | 8.79 | 348.7 KB |
 
-### Rust — 10.1%
+### Rust — 10.0%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -307,11 +307,11 @@ Generated: 2026-04-20T07:13:29.551Z
 | Dockerfile | 1003 B | 0.1% | 0.12 |
 | Shell | 3.4 KB | 0.3% | 0.42 |
 
-### Rebar-Team/app — 103 commits
+### Rebar-Team/app — 105 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| TypeScript | 10.8 MB | 99.7% | 102.72 |
+| TypeScript | 10.8 MB | 99.7% | 104.72 |
 | JavaScript | 26.5 KB | 0.2% | 0.25 |
 | Shell | 3.6 KB | 0.0% | 0.03 |
 
@@ -476,7 +476,7 @@ Generated: 2026-04-20T07:13:29.551Z
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| Python | 442.9 KB | 97.5% | 6.82 |
+| Python | 452.2 KB | 97.5% | 6.83 |
 | Makefile | 2.4 KB | 0.5% | 0.04 |
 | Shell | 9.2 KB | 2.0% | 0.14 |
 
