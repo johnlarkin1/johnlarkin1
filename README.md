@@ -10,7 +10,8 @@ Hi, I'm John. I love building performant systems, quantitative problems, and dat
 
 ### Projects
 
-- [Tennis Scorigami](https://www.tennis-scorigami.com/)
+- [🎾 Tennis Scorigami](https://www.tennis-scorigami.com/)
+- [⛵️ Odozi](https://odozi.app/)
 - [Walk in the Parquet](https://www.walkintheparquet.com/)
 - [Larkin Vanity Mirror](https://larkin-vanity-mirror.vercel.app/)
 - [Scrollz](https://scrollz.co)
