@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-04-26T06:56:47.141Z
+Generated: 2026-04-27T07:31:19.851Z
 
 - **Repos analyzed:** 57
 - **Repos skipped** (no language data or all excluded): 10
@@ -10,11 +10,11 @@ Generated: 2026-04-26T06:56:47.141Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 704.85 | 46.6% | 19 |
-| 2 | Python | 295.52 | 19.5% | 41 |
-| 3 | Swift | 176.91 | 11.7% | 3 |
+| 1 | TypeScript | 704.92 | 46.6% | 19 |
+| 2 | Python | 295.51 | 19.5% | 41 |
+| 3 | Swift | 176.86 | 11.7% | 3 |
 | 4 | Rust | 146.36 | 9.7% | 8 |
-| 5 | JavaScript | 107.63 | 7.1% | 25 |
+| 5 | JavaScript | 107.62 | 7.1% | 25 |
 | 6 | Shell | 30.92 | 2.0% | 25 |
 | 7 | Makefile | 15.95 | 1.1% | 30 |
 | 8 | HCL | 8.99 | 0.6% | 4 |
@@ -49,7 +49,7 @@ Generated: 2026-04-26T06:56:47.141Z
 | johnlarkin1/larkin-vanity-mirror | 34.36 | 403.3 KB |
 | scrollz-app/scrollz | 28.63 | 1.1 MB |
 | Rebar-Team/rebar-design | 27.94 | 10.9 MB |
-| doe-ai/doe-mono | 27.63 | 800.1 KB |
+| doe-ai/doe-mono | 27.70 | 820.4 KB |
 | ... and 9 more repos | | |
 
 ### Python — 19.5%
@@ -74,7 +74,7 @@ Generated: 2026-04-26T06:56:47.141Z
 |------|----------------------|-------|
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 37.55 | 317.8 KB |
-| doe-ai/doe-mono | 12.44 | 360.3 KB |
+| doe-ai/doe-mono | 12.39 | 366.9 KB |
 
 ### Rust — 9.7%
 
@@ -186,7 +186,7 @@ Generated: 2026-04-26T06:56:47.141Z
 |------|----------------------|-------|
 | johnlarkin1/odozi | 2.67 | 18.4 KB |
 | johnlarkin1/johnlarkin1.github.io | 0.50 | 1.0 KB |
-| doe-ai/doe-mono | 0.14 | 4.0 KB |
+| doe-ai/doe-mono | 0.13 | 4.0 KB |
 
 ### Vim Snippet — 0.2%
 
@@ -338,13 +338,13 @@ Generated: 2026-04-26T06:56:47.141Z
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| JavaScript | 10.9 KB | 0.9% | 0.38 |
-| TypeScript | 800.1 KB | 67.4% | 27.63 |
-| Swift | 360.3 KB | 30.3% | 12.44 |
+| JavaScript | 10.9 KB | 0.9% | 0.37 |
+| TypeScript | 820.4 KB | 67.6% | 27.70 |
+| Swift | 366.9 KB | 30.2% | 12.39 |
 | Shell | 1.1 KB | 0.1% | 0.04 |
 | Python | 1.7 KB | 0.1% | 0.06 |
-| Makefile | 9.3 KB | 0.8% | 0.32 |
-| Ruby | 4.0 KB | 0.3% | 0.14 |
+| Makefile | 9.3 KB | 0.8% | 0.31 |
+| Ruby | 4.0 KB | 0.3% | 0.13 |
 
 ### scrollz-app/scrollz — 36 commits
 
@@ -390,15 +390,6 @@ Generated: 2026-04-26T06:56:47.141Z
 | Shell | 4.1 KB | 1.6% | 0.34 |
 | Makefile | 1.7 KB | 0.7% | 0.14 |
 
-### johnlarkin1/rebar-eng-ops — 18 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| Makefile | 919 B | 0.6% | 0.11 |
-| Shell | 5.3 KB | 3.5% | 0.63 |
-| JavaScript | 28.5 KB | 18.8% | 3.38 |
-| Python | 117.1 KB | 77.1% | 13.88 |
-
 ### Rebar-Team/download-pdf — 18 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
@@ -408,6 +399,15 @@ Generated: 2026-04-26T06:56:47.141Z
 | Makefile | 1.3 KB | 1.1% | 0.21 |
 | Dockerfile | 3.5 KB | 3.0% | 0.55 |
 | HCL | 23.1 KB | 20.3% | 3.65 |
+
+### johnlarkin1/rebar-eng-ops — 18 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Makefile | 919 B | 0.6% | 0.11 |
+| Shell | 5.3 KB | 3.5% | 0.63 |
+| JavaScript | 28.5 KB | 18.8% | 3.38 |
+| Python | 117.1 KB | 77.1% | 13.88 |
 
 ### johnlarkin1/multi-armed-bandit — 17 commits
 
@@ -442,17 +442,17 @@ Generated: 2026-04-26T06:56:47.141Z
 | TypeScript | 734.6 KB | 99.9% | 13.99 |
 | JavaScript | 559 B | 0.1% | 0.01 |
 
-### Rebar-Team/rebar-cc-extensions — 12 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| Python | 5.3 KB | 100.0% | 12 |
-
 ### johnlarkin1/claude-code-extensions — 12 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
 | Shell | 45.1 KB | 100.0% | 12 |
+
+### Rebar-Team/rebar-cc-extensions — 12 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Python | 5.3 KB | 100.0% | 12 |
 
 ### johnlarkin1/wunder-lob-predictor — 9 commits
 
@@ -461,6 +461,13 @@ Generated: 2026-04-26T06:56:47.141Z
 | Python | 796.3 KB | 99.8% | 8.98 |
 | Makefile | 1.7 KB | 0.2% | 0.02 |
 
+### Rebar-Team/websocket-lambda — 8 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Python | 256.6 KB | 99.8% | 7.98 |
+| Makefile | 623 B | 0.2% | 0.02 |
+
 ### johnlarkin1/anduril-ai-gp — 8 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
@@ -468,13 +475,6 @@ Generated: 2026-04-26T06:56:47.141Z
 | Dockerfile | 606 B | 15.7% | 1.25 |
 | Makefile | 2.7 KB | 70.9% | 5.67 |
 | Python | 519 B | 13.4% | 1.07 |
-
-### Rebar-Team/websocket-lambda — 8 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| Python | 256.6 KB | 99.8% | 7.98 |
-| Makefile | 623 B | 0.2% | 0.02 |
 
 ### Rebar-Team/rebar-lambdas — 8 commits
 
@@ -492,6 +492,13 @@ Generated: 2026-04-26T06:56:47.141Z
 | Makefile | 2.4 KB | 0.5% | 0.04 |
 | Shell | 9.2 KB | 2.0% | 0.14 |
 
+### johnlarkin1/yourname-mcp — 6 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Jinja | 11.3 KB | 64.3% | 3.86 |
+| Python | 6.3 KB | 35.7% | 2.14 |
+
 ### johnlarkin1/topspin-trading — 6 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
@@ -504,13 +511,6 @@ Generated: 2026-04-26T06:56:47.141Z
 | Shell | 1.8 KB | 0.7% | 0.04 |
 | Go Template | 463 B | 0.2% | 0.01 |
 | HCL | 2.0 KB | 0.7% | 0.04 |
-
-### johnlarkin1/yourname-mcp — 6 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| Jinja | 11.3 KB | 64.3% | 3.86 |
-| Python | 6.3 KB | 35.7% | 2.14 |
 
 ### Rebar-Team/rebar-interview-review — 6 commits
 
