@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-04-29T07:18:46.146Z
+Generated: 2026-04-30T07:25:28.812Z
 
 - **Repos analyzed:** 58
 - **Repos skipped** (no language data or all excluded): 10
@@ -10,14 +10,14 @@ Generated: 2026-04-29T07:18:46.146Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 710.87 | 46.8% | 19 |
+| 1 | TypeScript | 711.78 | 46.8% | 19 |
 | 2 | Python | 296.51 | 19.5% | 42 |
-| 3 | Swift | 176.86 | 11.6% | 3 |
+| 3 | Swift | 176.95 | 11.6% | 3 |
 | 4 | Rust | 146.36 | 9.6% | 8 |
 | 5 | JavaScript | 107.75 | 7.1% | 25 |
-| 6 | Shell | 30.92 | 2.0% | 25 |
+| 6 | Shell | 30.91 | 2.0% | 25 |
 | 7 | Makefile | 15.86 | 1.0% | 30 |
-| 8 | HCL | 8.99 | 0.6% | 4 |
+| 8 | HCL | 9.00 | 0.6% | 4 |
 | 9 | Jupyter Notebook | 4.84 | 0.3% | 2 |
 | 10 | Jinja | 4.47 | 0.3% | 2 |
 | 11 | Dockerfile | 3.85 | 0.3% | 8 |
@@ -40,7 +40,7 @@ Generated: 2026-04-29T07:18:46.146Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/app | 133.41 | 11.0 MB |
+| Rebar-Team/app | 133.42 | 11.2 MB |
 | johnlarkin1/tennis-scorigami | 114.38 | 627.9 KB |
 | johnlarkin1/be-right-back-internal | 112.60 | 1.0 MB |
 | johnlarkin1/tennis-scorigami-internal | 79.67 | 728.8 KB |
@@ -48,8 +48,8 @@ Generated: 2026-04-29T07:18:46.146Z
 | johnlarkin1/afuera | 45.49 | 385.1 KB |
 | johnlarkin1/larkin-vanity-mirror | 34.36 | 403.3 KB |
 | scrollz-app/scrollz | 28.63 | 1.1 MB |
+| doe-ai/doe-mono | 28.60 | 840.8 KB |
 | Rebar-Team/rebar-design | 27.94 | 10.9 MB |
-| doe-ai/doe-mono | 27.70 | 820.4 KB |
 | ... and 9 more repos | | |
 
 ### Python — 19.5%
@@ -74,7 +74,7 @@ Generated: 2026-04-29T07:18:46.146Z
 |------|----------------------|-------|
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 37.55 | 317.8 KB |
-| doe-ai/doe-mono | 12.39 | 366.9 KB |
+| doe-ai/doe-mono | 12.48 | 366.9 KB |
 
 ### Rust — 9.6%
 
@@ -141,7 +141,7 @@ Generated: 2026-04-29T07:18:46.146Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/rebar-infra | 3.90 | 389.8 KB |
+| Rebar-Team/rebar-infra | 3.91 | 448.9 KB |
 | Rebar-Team/download-pdf | 3.65 | 23.1 KB |
 | Rebar-Team/rebar-interview-review | 1.40 | 19.7 KB |
 | johnlarkin1/topspin-trading | 0.04 | 2.0 KB |
@@ -186,7 +186,7 @@ Generated: 2026-04-29T07:18:46.146Z
 |------|----------------------|-------|
 | johnlarkin1/odozi | 2.67 | 18.4 KB |
 | johnlarkin1/johnlarkin1.github.io | 0.50 | 1.0 KB |
-| doe-ai/doe-mono | 0.13 | 4.0 KB |
+| doe-ai/doe-mono | 0.14 | 4.0 KB |
 
 ### Vim Snippet — 0.2%
 
@@ -279,8 +279,8 @@ Generated: 2026-04-29T07:18:46.146Z
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| TypeScript | 11.0 MB | 99.6% | 133.41 |
-| JavaScript | 46.2 KB | 0.4% | 0.55 |
+| TypeScript | 11.2 MB | 99.6% | 133.42 |
+| JavaScript | 46.2 KB | 0.4% | 0.54 |
 | Shell | 3.6 KB | 0.0% | 0.04 |
 
 ### johnlarkin1/afuera — 124 commits
@@ -334,17 +334,17 @@ Generated: 2026-04-29T07:18:46.146Z
 | JavaScript | 424 B | 0.2% | 0.08 |
 | Makefile | 2.4 KB | 1.0% | 0.49 |
 
-### doe-ai/doe-mono — 41 commits
+### doe-ai/doe-mono — 42 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
 | JavaScript | 10.9 KB | 0.9% | 0.37 |
-| TypeScript | 820.4 KB | 67.6% | 27.70 |
-| Swift | 366.9 KB | 30.2% | 12.39 |
+| TypeScript | 840.8 KB | 68.1% | 28.60 |
+| Swift | 366.9 KB | 29.7% | 12.48 |
 | Shell | 1.1 KB | 0.1% | 0.04 |
 | Python | 1.7 KB | 0.1% | 0.06 |
-| Makefile | 9.3 KB | 0.8% | 0.31 |
-| Ruby | 4.0 KB | 0.3% | 0.13 |
+| Makefile | 9.3 KB | 0.8% | 0.32 |
+| Ruby | 4.0 KB | 0.3% | 0.14 |
 
 ### scrollz-app/scrollz — 36 commits
 
