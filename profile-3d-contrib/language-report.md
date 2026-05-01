@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-04-30T07:25:28.812Z
+Generated: 2026-05-01T07:23:15.535Z
 
 - **Repos analyzed:** 58
 - **Repos skipped** (no language data or all excluded): 10
@@ -10,13 +10,13 @@ Generated: 2026-04-30T07:25:28.812Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 711.78 | 46.8% | 19 |
-| 2 | Python | 296.51 | 19.5% | 42 |
-| 3 | Swift | 176.95 | 11.6% | 3 |
-| 4 | Rust | 146.36 | 9.6% | 8 |
-| 5 | JavaScript | 107.75 | 7.1% | 25 |
-| 6 | Shell | 30.91 | 2.0% | 25 |
-| 7 | Makefile | 15.86 | 1.0% | 30 |
+| 1 | TypeScript | 728.08 | 47.3% | 19 |
+| 2 | Python | 296.81 | 19.3% | 42 |
+| 3 | Swift | 177.25 | 11.5% | 3 |
+| 4 | Rust | 146.36 | 9.5% | 8 |
+| 5 | JavaScript | 107.82 | 7.0% | 25 |
+| 6 | Shell | 30.92 | 2.0% | 25 |
+| 7 | Makefile | 15.88 | 1.0% | 30 |
 | 8 | HCL | 9.00 | 0.6% | 4 |
 | 9 | Jupyter Notebook | 4.84 | 0.3% | 2 |
 | 10 | Jinja | 4.47 | 0.3% | 2 |
@@ -36,28 +36,28 @@ Generated: 2026-04-30T07:25:28.812Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 46.8%
+### TypeScript — 47.3%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/app | 133.42 | 11.2 MB |
+| Rebar-Team/app | 149.35 | 11.2 MB |
 | johnlarkin1/tennis-scorigami | 114.38 | 627.9 KB |
 | johnlarkin1/be-right-back-internal | 112.60 | 1.0 MB |
 | johnlarkin1/tennis-scorigami-internal | 79.67 | 728.8 KB |
 | johnlarkin1/onco-menopause-risk-calculator | 46.43 | 232.4 KB |
-| johnlarkin1/afuera | 45.49 | 385.1 KB |
+| johnlarkin1/afuera | 45.86 | 385.1 KB |
 | johnlarkin1/larkin-vanity-mirror | 34.36 | 403.3 KB |
 | scrollz-app/scrollz | 28.63 | 1.1 MB |
 | doe-ai/doe-mono | 28.60 | 840.8 KB |
 | Rebar-Team/rebar-design | 27.94 | 10.9 MB |
 | ... and 9 more repos | | |
 
-### Python — 19.5%
+### Python — 19.3%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/be-right-back-internal | 49.64 | 463.8 KB |
-| johnlarkin1/afuera | 37.98 | 321.4 KB |
+| johnlarkin1/afuera | 38.28 | 321.4 KB |
 | johnlarkin1/tennis-scorigami-internal | 36.68 | 335.5 KB |
 | johnlarkin1/generative-handwriting | 20.52 | 246.7 KB |
 | johnlarkin1/imessage-data-foundry | 15.92 | 313.1 KB |
@@ -68,15 +68,15 @@ Generated: 2026-04-30T07:25:28.812Z
 | johnlarkin1/wunder-lob-predictor | 8.98 | 796.3 KB |
 | ... and 32 more repos | | |
 
-### Swift — 11.6%
+### Swift — 11.5%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
-| johnlarkin1/afuera | 37.55 | 317.8 KB |
+| johnlarkin1/afuera | 37.85 | 317.8 KB |
 | doe-ai/doe-mono | 12.48 | 366.9 KB |
 
-### Rust — 9.6%
+### Rust — 9.5%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -89,7 +89,7 @@ Generated: 2026-04-30T07:25:28.812Z
 | johnlarkin1/foom | 1.85 | 219.9 KB |
 | johnlarkin1/walk-in-the-parquet | 0.34 | 72.5 KB |
 
-### JavaScript — 7.1%
+### JavaScript — 7.0%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -126,7 +126,7 @@ Generated: 2026-04-30T07:25:28.812Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/anduril-ai-gp | 5.67 | 2.7 KB |
-| johnlarkin1/afuera | 1.67 | 14.1 KB |
+| johnlarkin1/afuera | 1.68 | 14.1 KB |
 | johnlarkin1/larkin-mcp | 1.57 | 10.0 KB |
 | johnlarkin1/odozi | 1.45 | 10.0 KB |
 | johnlarkin1/be-right-back-internal | 1.01 | 9.5 KB |
@@ -275,23 +275,23 @@ Generated: 2026-04-30T07:25:28.812Z
 | JavaScript | 28.1 KB | 2.4% | 4.07 |
 | Python | 30.0 KB | 2.6% | 4.34 |
 
-### Rebar-Team/app — 134 commits
+### Rebar-Team/app — 150 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| TypeScript | 11.2 MB | 99.6% | 133.42 |
-| JavaScript | 46.2 KB | 0.4% | 0.54 |
-| Shell | 3.6 KB | 0.0% | 0.04 |
+| TypeScript | 11.2 MB | 99.6% | 149.35 |
+| JavaScript | 46.2 KB | 0.4% | 0.60 |
+| Shell | 3.6 KB | 0.0% | 0.05 |
 
-### johnlarkin1/afuera — 124 commits
+### johnlarkin1/afuera — 125 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| Python | 321.4 KB | 30.6% | 37.98 |
+| Python | 321.4 KB | 30.6% | 38.28 |
 | Mako | 704 B | 0.1% | 0.08 |
-| Swift | 317.8 KB | 30.3% | 37.55 |
-| Makefile | 14.1 KB | 1.3% | 1.67 |
-| TypeScript | 385.1 KB | 36.7% | 45.49 |
+| Swift | 317.8 KB | 30.3% | 37.85 |
+| Makefile | 14.1 KB | 1.3% | 1.68 |
+| TypeScript | 385.1 KB | 36.7% | 45.86 |
 | JavaScript | 6.1 KB | 0.6% | 0.72 |
 | Dockerfile | 1003 B | 0.1% | 0.12 |
 | Shell | 3.4 KB | 0.3% | 0.41 |
