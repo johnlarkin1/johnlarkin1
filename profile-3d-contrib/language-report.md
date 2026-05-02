@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-05-01T07:23:15.535Z
+Generated: 2026-05-02T06:59:04.945Z
 
 - **Repos analyzed:** 58
 - **Repos skipped** (no language data or all excluded): 10
@@ -10,17 +10,17 @@ Generated: 2026-05-01T07:23:15.535Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 728.08 | 47.3% | 19 |
+| 1 | TypeScript | 730.07 | 47.4% | 19 |
 | 2 | Python | 296.81 | 19.3% | 42 |
 | 3 | Swift | 177.25 | 11.5% | 3 |
 | 4 | Rust | 146.36 | 9.5% | 8 |
-| 5 | JavaScript | 107.82 | 7.0% | 25 |
+| 5 | JavaScript | 107.83 | 7.0% | 25 |
 | 6 | Shell | 30.92 | 2.0% | 25 |
 | 7 | Makefile | 15.88 | 1.0% | 30 |
 | 8 | HCL | 9.00 | 0.6% | 4 |
 | 9 | Jupyter Notebook | 4.84 | 0.3% | 2 |
 | 10 | Jinja | 4.47 | 0.3% | 2 |
-| 11 | Dockerfile | 3.85 | 0.3% | 8 |
+| 11 | Dockerfile | 3.85 | 0.2% | 8 |
 | 12 | MDX | 3.67 | 0.2% | 2 |
 | 13 | Ruby | 3.31 | 0.2% | 3 |
 | 14 | Vim Snippet | 3 | 0.2% | 1 |
@@ -36,11 +36,11 @@ Generated: 2026-05-01T07:23:15.535Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 47.3%
+### TypeScript — 47.4%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/app | 149.35 | 11.2 MB |
+| Rebar-Team/app | 151.34 | 11.2 MB |
 | johnlarkin1/tennis-scorigami | 114.38 | 627.9 KB |
 | johnlarkin1/be-right-back-internal | 112.60 | 1.0 MB |
 | johnlarkin1/tennis-scorigami-internal | 79.67 | 728.8 KB |
@@ -160,7 +160,7 @@ Generated: 2026-05-01T07:23:15.535Z
 | johnlarkin1/yourname-mcp | 3.86 | 11.3 KB |
 | johnlarkin1/tennis-scorigami-internal | 0.61 | 5.6 KB |
 
-### Dockerfile — 0.3%
+### Dockerfile — 0.2%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -275,12 +275,12 @@ Generated: 2026-05-01T07:23:15.535Z
 | JavaScript | 28.1 KB | 2.4% | 4.07 |
 | Python | 30.0 KB | 2.6% | 4.34 |
 
-### Rebar-Team/app — 150 commits
+### Rebar-Team/app — 152 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| TypeScript | 11.2 MB | 99.6% | 149.35 |
-| JavaScript | 46.2 KB | 0.4% | 0.60 |
+| TypeScript | 11.2 MB | 99.6% | 151.34 |
+| JavaScript | 46.2 KB | 0.4% | 0.61 |
 | Shell | 3.6 KB | 0.0% | 0.05 |
 
 ### johnlarkin1/afuera — 125 commits
