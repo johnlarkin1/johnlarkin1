@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-05-12T07:39:46.293Z
+Generated: 2026-05-13T07:45:46.507Z
 
 - **Repos analyzed:** 71
 - **Repos skipped** (no language data or all excluded): 10
@@ -10,17 +10,17 @@ Generated: 2026-05-12T07:39:46.293Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 757.07 | 47.4% | 19 |
-| 2 | Python | 312.28 | 19.6% | 54 |
+| 1 | TypeScript | 761.05 | 47.6% | 19 |
+| 2 | Python | 312.28 | 19.5% | 54 |
 | 3 | Swift | 176.24 | 11.0% | 4 |
-| 4 | Rust | 146.36 | 9.2% | 8 |
-| 5 | JavaScript | 113.97 | 7.1% | 27 |
-| 6 | Shell | 30.91 | 1.9% | 26 |
+| 4 | Rust | 146.36 | 9.1% | 8 |
+| 5 | JavaScript | 114.10 | 7.1% | 27 |
+| 6 | Shell | 30.93 | 1.9% | 27 |
 | 7 | Makefile | 15.76 | 1.0% | 33 |
 | 8 | HCL | 14.57 | 0.9% | 4 |
 | 9 | Vim Snippet | 5 | 0.3% | 1 |
 | 10 | Dockerfile | 4.97 | 0.3% | 8 |
-| 11 | Jupyter Notebook | 4.84 | 0.3% | 2 |
+| 11 | Jupyter Notebook | 4.72 | 0.3% | 2 |
 | 12 | Jinja | 4.46 | 0.3% | 2 |
 | 13 | MDX | 3.61 | 0.2% | 2 |
 | 14 | Ruby | 3.29 | 0.2% | 3 |
@@ -37,11 +37,11 @@ Generated: 2026-05-12T07:39:46.293Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 47.4%
+### TypeScript — 47.6%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/app | 188.18 | 11.5 MB |
+| Rebar-Team/app | 192.16 | 11.5 MB |
 | johnlarkin1/be-right-back-internal | 112.60 | 1.0 MB |
 | johnlarkin1/tennis-scorigami | 112.49 | 627.9 KB |
 | johnlarkin1/tennis-scorigami-internal | 78.35 | 728.8 KB |
@@ -53,7 +53,7 @@ Generated: 2026-05-12T07:39:46.293Z
 | johnlarkin1/odozi | 24.29 | 167.7 KB |
 | ... and 9 more repos | | |
 
-### Python — 19.6%
+### Python — 19.5%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -78,7 +78,7 @@ Generated: 2026-05-12T07:39:46.293Z
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
 | steipete/CodexBar | 0.99 | 7.0 MB |
 
-### Rust — 9.2%
+### Rust — 9.1%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -121,7 +121,7 @@ Generated: 2026-05-12T07:39:46.293Z
 | johnlarkin1/antssembly-moment | 0.61 | 3.9 KB |
 | johnlarkin1/afuera | 0.41 | 3.4 KB |
 | johnlarkin1/generative-handwriting | 0.34 | 4.1 KB |
-| ... and 16 more repos | | |
+| ... and 17 more repos | | |
 
 ### Makefile — 1.0%
 
@@ -144,7 +144,7 @@ Generated: 2026-05-12T07:39:46.293Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | Rebar-Team/download-pdf | 9.19 | 28.6 KB |
-| Rebar-Team/rebar-infra | 3.94 | 563.6 KB |
+| Rebar-Team/rebar-infra | 3.94 | 606.3 KB |
 | Rebar-Team/rebar-interview-review | 1.40 | 19.7 KB |
 | johnlarkin1/topspin-trading | 0.04 | 2.0 KB |
 
@@ -165,14 +165,14 @@ Generated: 2026-05-12T07:39:46.293Z
 | Rebar-Team/rebar-interview-review | 0.10 | 1.5 KB |
 | johnlarkin1/odozi | 0.10 | 696 B |
 | Rebar-Team/core | 0.00 | 6.0 KB |
-| Rebar-Team/y-redis-server | 0.00 | 248 B |
+| Rebar-Team/y-redis-server | 0.00 | 564 B |
 
 ### Jupyter Notebook — 0.3%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/little-book-of-linalg | 4.00 | 2.6 MB |
-| Rebar-Team/y-redis-server | 0.84 | 261.7 KB |
+| Rebar-Team/y-redis-server | 0.72 | 261.7 KB |
 
 ### Jinja — 0.3%
 
@@ -270,12 +270,12 @@ Generated: 2026-05-12T07:39:46.293Z
 | Python | 463.8 KB | 17.9% | 49.64 |
 | Shell | 40.2 KB | 1.5% | 4.31 |
 
-### Rebar-Team/app — 189 commits
+### Rebar-Team/app — 193 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| TypeScript | 11.5 MB | 99.6% | 188.18 |
-| JavaScript | 47.7 KB | 0.4% | 0.76 |
+| TypeScript | 11.5 MB | 99.6% | 192.16 |
+| JavaScript | 47.7 KB | 0.4% | 0.78 |
 | Shell | 3.6 KB | 0.0% | 0.06 |
 
 ### johnlarkin1/odozi — 169 commits
