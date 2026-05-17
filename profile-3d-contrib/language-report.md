@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-05-16T07:10:40.430Z
+Generated: 2026-05-17T07:30:45.630Z
 
 - **Repos analyzed:** 73
 - **Repos skipped** (no language data or all excluded): 10
@@ -76,7 +76,7 @@ Generated: 2026-05-16T07:10:40.430Z
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.99 | 7.7 MB |
+| steipete/CodexBar | 0.99 | 7.9 MB |
 
 ### Rust — 9.0%
 
