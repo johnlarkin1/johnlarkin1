@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-05-31T08:10:36.676Z
+Generated: 2026-06-01T10:14:00.715Z
 
 - **Repos analyzed:** 74
 - **Repos skipped** (no language data or all excluded): 10
@@ -10,24 +10,24 @@ Generated: 2026-05-31T08:10:36.676Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 830.87 | 48.1% | 19 |
-| 2 | Python | 341.23 | 19.7% | 57 |
+| 1 | TypeScript | 820.58 | 47.7% | 19 |
+| 2 | Python | 340.72 | 19.8% | 57 |
 | 3 | Swift | 176.25 | 10.2% | 4 |
-| 4 | Rust | 170.86 | 9.9% | 8 |
-| 5 | JavaScript | 116.85 | 6.8% | 28 |
-| 6 | Shell | 28.64 | 1.7% | 27 |
-| 7 | HCL | 19.65 | 1.1% | 5 |
-| 8 | Makefile | 15.94 | 0.9% | 35 |
+| 4 | Rust | 173.16 | 10.1% | 8 |
+| 5 | JavaScript | 117.63 | 6.8% | 28 |
+| 6 | Shell | 28.76 | 1.7% | 27 |
+| 7 | HCL | 20.36 | 1.2% | 5 |
+| 8 | Makefile | 15.96 | 0.9% | 35 |
 | 9 | Jupyter Notebook | 6.15 | 0.4% | 2 |
 | 10 | Vim Snippet | 5 | 0.3% | 1 |
-| 11 | Jinja | 4.38 | 0.3% | 2 |
-| 12 | Dockerfile | 3.31 | 0.2% | 8 |
-| 13 | Ruby | 3.29 | 0.2% | 3 |
-| 14 | MDX | 3.13 | 0.2% | 2 |
-| 15 | Astro | 0.96 | 0.1% | 1 |
+| 11 | Jinja | 4.35 | 0.3% | 2 |
+| 12 | Dockerfile | 3.32 | 0.2% | 8 |
+| 13 | Ruby | 3.30 | 0.2% | 3 |
+| 14 | MDX | 2.98 | 0.2% | 2 |
+| 15 | Astro | 1.07 | 0.1% | 1 |
 | 16 | Objective-C | 0.84 | 0.0% | 1 |
 | 17 | Go | 0.76 | 0.0% | 1 |
-| 18 | PLpgSQL | 0.73 | 0.0% | 2 |
+| 18 | PLpgSQL | 0.66 | 0.0% | 2 |
 | 19 | Mako | 0.14 | 0.0% | 2 |
 | 20 | Go Template | 0.01 | 0.0% | 1 |
 | 21 | C | 0.01 | 0.0% | 1 |
@@ -38,14 +38,14 @@ Generated: 2026-05-31T08:10:36.676Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 48.1%
+### TypeScript — 47.7%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | Rebar-Team/app | 292.78 | 12.9 MB |
 | johnlarkin1/be-right-back-internal | 114.91 | 1.1 MB |
-| johnlarkin1/tennis-scorigami | 97.37 | 627.9 KB |
-| johnlarkin1/tennis-scorigami-internal | 67.82 | 728.8 KB |
+| johnlarkin1/tennis-scorigami | 92.64 | 627.9 KB |
+| johnlarkin1/tennis-scorigami-internal | 64.53 | 728.8 KB |
 | johnlarkin1/afuera | 47.07 | 391.3 KB |
 | johnlarkin1/onco-menopause-risk-calculator | 46.43 | 232.4 KB |
 | johnlarkin1/larkin-vanity-mirror | 34.36 | 403.3 KB |
@@ -54,15 +54,15 @@ Generated: 2026-05-31T08:10:36.676Z
 | doe-ai/doe-mono | 23.15 | 840.8 KB |
 | ... and 9 more repos | | |
 
-### Python — 19.7%
+### Python — 19.8%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/be-right-back-internal | 50.21 | 474.1 KB |
 | johnlarkin1/afuera | 38.66 | 321.4 KB |
-| johnlarkin1/tennis-scorigami-internal | 31.22 | 335.5 KB |
+| johnlarkin1/tennis-scorigami-internal | 29.71 | 335.5 KB |
 | johnlarkin1/generative-handwriting | 20.52 | 246.7 KB |
-| Rebar-Team/rebar-lambdas | 16.73 | 3.1 MB |
+| Rebar-Team/rebar-lambdas | 17.87 | 3.1 MB |
 | johnlarkin1/imessage-data-foundry | 15.92 | 313.1 KB |
 | Rebar-Team/rebar-cc-extensions | 14 | 5.3 KB |
 | johnlarkin1/rebar-eng-ops | 13.88 | 117.1 KB |
@@ -79,12 +79,12 @@ Generated: 2026-05-31T08:10:36.676Z
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
 | steipete/CodexBar | 0.99 | 9.3 MB |
 
-### Rust — 9.9%
+### Rust — 10.1%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/be-right-back-internal | 110.71 | 1.0 MB |
-| johnlarkin1/topspin-trading | 27.31 | 920.8 KB |
+| johnlarkin1/topspin-trading | 29.61 | 920.8 KB |
 | johnlarkin1/antssembly-moment | 20.17 | 128.2 KB |
 | johnlarkin1/odozi | 5.16 | 35.6 KB |
 | johnlarkin1/larkin-mcp | 3.32 | 21.1 KB |
@@ -96,16 +96,16 @@ Generated: 2026-05-31T08:10:36.676Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| johnlarkin1/johnlarkin1.github.io | 76.83 | 153.3 KB |
+| johnlarkin1/johnlarkin1.github.io | 77.81 | 153.3 KB |
 | Rebar-Team/download-pdf | 8.04 | 25.0 KB |
 | johnlarkin1/github-pr-colorizer | 5.75 | 11.2 KB |
 | johnlarkin1/odozi | 4.07 | 28.1 KB |
 | Rebar-Team/y-redis-server | 3.81 | 462.4 KB |
 | johnlarkin1/rebar-eng-ops | 3.38 | 28.5 KB |
-| johnlarkin1/tennis-scorigami | 3.05 | 19.7 KB |
+| johnlarkin1/tennis-scorigami | 2.91 | 19.7 KB |
 | johnlarkin1/github-pr-formatter | 2 | 4.8 KB |
-| johnlarkin1/tennis-scorigami-internal | 1.83 | 19.7 KB |
 | johnlarkin1/be-right-back-internal | 1.81 | 17.1 KB |
+| Rebar-Team/rebar-notion-integration | 1.78 | 97.1 KB |
 | ... and 18 more repos | | |
 
 ### Shell — 1.7%
@@ -116,7 +116,7 @@ Generated: 2026-05-31T08:10:36.676Z
 | johnlarkin1/be-right-back-internal | 4.26 | 40.2 KB |
 | johnlarkin1/claude-extended-flags | 4 | 35.7 KB |
 | johnlarkin1/larkin-mcp | 2.06 | 13.1 KB |
-| Rebar-Team/rebar-lambdas | 1.82 | 350.4 KB |
+| Rebar-Team/rebar-lambdas | 1.95 | 350.4 KB |
 | Rebar-Team/rebar-interview-review | 1.34 | 18.9 KB |
 | johnlarkin1/rebar-eng-ops | 0.63 | 5.3 KB |
 | johnlarkin1/antssembly-moment | 0.61 | 3.9 KB |
@@ -124,15 +124,15 @@ Generated: 2026-05-31T08:10:36.676Z
 | johnlarkin1/generative-handwriting | 0.34 | 4.1 KB |
 | ... and 17 more repos | | |
 
-### HCL — 1.1%
+### HCL — 1.2%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | Rebar-Team/download-pdf | 9.19 | 28.6 KB |
-| Rebar-Team/rebar-lambdas | 4.58 | 879.4 KB |
+| Rebar-Team/rebar-lambdas | 5.24 | 942.8 KB |
 | Rebar-Team/rebar-infra | 3.95 | 741.7 KB |
 | Rebar-Team/rebar-interview-review | 1.40 | 19.7 KB |
-| johnlarkin1/topspin-trading | 0.53 | 18.0 KB |
+| johnlarkin1/topspin-trading | 0.58 | 18.0 KB |
 
 ### Makefile — 0.9%
 
@@ -143,11 +143,11 @@ Generated: 2026-05-31T08:10:36.676Z
 | johnlarkin1/larkin-mcp | 1.57 | 10.0 KB |
 | johnlarkin1/odozi | 1.45 | 10.0 KB |
 | johnlarkin1/be-right-back-internal | 1.10 | 10.3 KB |
-| johnlarkin1/tennis-scorigami | 0.62 | 4.0 KB |
-| johnlarkin1/johnlarkin1.github.io | 0.56 | 1.1 KB |
-| johnlarkin1/topspin-trading | 0.53 | 17.9 KB |
+| johnlarkin1/topspin-trading | 0.60 | 18.5 KB |
+| johnlarkin1/tennis-scorigami | 0.59 | 4.0 KB |
+| johnlarkin1/johnlarkin1.github.io | 0.57 | 1.1 KB |
 | johnlarkin1/onco-menopause-risk-calculator | 0.49 | 2.4 KB |
-| johnlarkin1/tennis-scorigami-internal | 0.37 | 4.0 KB |
+| johnlarkin1/tennis-scorigami-internal | 0.36 | 4.0 KB |
 | ... and 25 more repos | | |
 
 ### Jupyter Notebook — 0.4%
@@ -168,7 +168,7 @@ Generated: 2026-05-31T08:10:36.676Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/yourname-mcp | 3.86 | 11.3 KB |
-| johnlarkin1/tennis-scorigami-internal | 0.52 | 5.6 KB |
+| johnlarkin1/tennis-scorigami-internal | 0.50 | 5.6 KB |
 
 ### Dockerfile — 0.2%
 
@@ -188,21 +188,21 @@ Generated: 2026-05-31T08:10:36.676Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/odozi | 2.67 | 18.4 KB |
-| johnlarkin1/johnlarkin1.github.io | 0.51 | 1.0 KB |
+| johnlarkin1/johnlarkin1.github.io | 0.52 | 1.0 KB |
 | doe-ai/doe-mono | 0.11 | 4.0 KB |
 
 ### MDX — 0.2%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| johnlarkin1/tennis-scorigami | 1.95 | 12.6 KB |
-| johnlarkin1/tennis-scorigami-internal | 1.17 | 12.6 KB |
+| johnlarkin1/tennis-scorigami | 1.86 | 12.6 KB |
+| johnlarkin1/tennis-scorigami-internal | 1.12 | 12.6 KB |
 
 ### Astro — 0.1%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| johnlarkin1/topspin-trading | 0.96 | 32.3 KB |
+| johnlarkin1/topspin-trading | 1.07 | 33.3 KB |
 
 ### Objective-C — 0.0%
 
@@ -220,7 +220,7 @@ Generated: 2026-05-31T08:10:36.676Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| scrollz-app/scrollz | 0.60 | 39.0 KB |
+| scrollz-app/scrollz | 0.52 | 39.0 KB |
 | Rebar-Team/rebar-lambdas | 0.14 | 26.0 KB |
 
 ### Mako — 0.0%
@@ -228,7 +228,7 @@ Generated: 2026-05-31T08:10:36.676Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/afuera | 0.08 | 704 B |
-| johnlarkin1/tennis-scorigami-internal | 0.06 | 635 B |
+| johnlarkin1/tennis-scorigami-internal | 0.05 | 635 B |
 
 ### Go Template — 0.0%
 
@@ -313,35 +313,35 @@ Generated: 2026-05-31T08:10:36.676Z
 | Dockerfile | 1003 B | 0.1% | 0.12 |
 | Shell | 3.4 KB | 0.3% | 0.41 |
 
-### johnlarkin1/tennis-scorigami — 103 commits
+### johnlarkin1/tennis-scorigami — 98 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| JavaScript | 19.7 KB | 3.0% | 3.05 |
-| TypeScript | 627.9 KB | 94.5% | 97.37 |
-| Makefile | 4.0 KB | 0.6% | 0.62 |
-| MDX | 12.6 KB | 1.9% | 1.95 |
+| JavaScript | 19.7 KB | 3.0% | 2.91 |
+| TypeScript | 627.9 KB | 94.5% | 92.64 |
+| Makefile | 4.0 KB | 0.6% | 0.59 |
+| MDX | 12.6 KB | 1.9% | 1.86 |
 
-### johnlarkin1/tennis-scorigami-internal — 103 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| JavaScript | 19.7 KB | 1.8% | 1.83 |
-| TypeScript | 728.8 KB | 65.8% | 67.82 |
-| Python | 335.5 KB | 30.3% | 31.22 |
-| Jinja | 5.6 KB | 0.5% | 0.52 |
-| Mako | 635 B | 0.1% | 0.06 |
-| MDX | 12.6 KB | 1.1% | 1.17 |
-| Makefile | 4.0 KB | 0.4% | 0.37 |
-
-### johnlarkin1/johnlarkin1.github.io — 78 commits
+### johnlarkin1/tennis-scorigami-internal — 98 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| Ruby | 1.0 KB | 0.7% | 0.51 |
-| JavaScript | 153.3 KB | 98.5% | 76.83 |
+| JavaScript | 19.7 KB | 1.8% | 1.74 |
+| TypeScript | 728.8 KB | 65.8% | 64.53 |
+| Python | 335.5 KB | 30.3% | 29.71 |
+| Jinja | 5.6 KB | 0.5% | 0.50 |
+| Mako | 635 B | 0.1% | 0.05 |
+| MDX | 12.6 KB | 1.1% | 1.12 |
+| Makefile | 4.0 KB | 0.4% | 0.36 |
+
+### johnlarkin1/johnlarkin1.github.io — 79 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Ruby | 1.0 KB | 0.7% | 0.52 |
+| JavaScript | 153.3 KB | 98.5% | 77.81 |
 | Shell | 197 B | 0.1% | 0.10 |
-| Makefile | 1.1 KB | 0.7% | 0.56 |
+| Makefile | 1.1 KB | 0.7% | 0.57 |
 
 ### johnlarkin1/onco-menopause-risk-calculator — 47 commits
 
@@ -351,6 +351,20 @@ Generated: 2026-05-31T08:10:36.676Z
 | JavaScript | 424 B | 0.2% | 0.08 |
 | Makefile | 2.4 KB | 1.0% | 0.49 |
 
+### johnlarkin1/topspin-trading — 38 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Makefile | 18.5 KB | 1.6% | 0.60 |
+| Rust | 920.8 KB | 77.9% | 29.61 |
+| JavaScript | 686 B | 0.1% | 0.02 |
+| TypeScript | 45.0 KB | 3.8% | 1.45 |
+| Python | 143.1 KB | 12.1% | 4.60 |
+| Shell | 1.8 KB | 0.2% | 0.06 |
+| Go Template | 463 B | 0.0% | 0.01 |
+| HCL | 18.0 KB | 1.5% | 0.58 |
+| Astro | 33.3 KB | 2.8% | 1.07 |
+
 ### johnlarkin1/larkin-vanity-mirror — 35 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
@@ -358,20 +372,6 @@ Generated: 2026-05-31T08:10:36.676Z
 | JavaScript | 7.3 KB | 1.8% | 0.62 |
 | TypeScript | 403.3 KB | 98.2% | 34.36 |
 | Makefile | 218 B | 0.1% | 0.02 |
-
-### johnlarkin1/topspin-trading — 35 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| Makefile | 17.9 KB | 1.5% | 0.53 |
-| Rust | 920.8 KB | 78.0% | 27.31 |
-| JavaScript | 686 B | 0.1% | 0.02 |
-| TypeScript | 45.0 KB | 3.8% | 1.34 |
-| Python | 143.1 KB | 12.1% | 4.24 |
-| Shell | 1.8 KB | 0.2% | 0.05 |
-| Go Template | 463 B | 0.0% | 0.01 |
-| HCL | 18.0 KB | 1.5% | 0.53 |
-| Astro | 32.3 KB | 2.7% | 0.96 |
 
 ### doe-ai/doe-mono — 34 commits
 
@@ -402,27 +402,16 @@ Generated: 2026-05-31T08:10:36.676Z
 | JavaScript | 19.0 KB | 0.2% | 0.05 |
 | Shell | 3.6 KB | 0.0% | 0.01 |
 
-### Rebar-Team/rebar-lambdas — 24 commits
+### Rebar-Team/rebar-lambdas — 26 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| Shell | 350.4 KB | 7.6% | 1.82 |
-| Python | 3.1 MB | 69.7% | 16.73 |
+| Shell | 350.4 KB | 7.5% | 1.95 |
+| Python | 3.1 MB | 68.7% | 17.87 |
 | Dockerfile | 11.3 KB | 0.2% | 0.06 |
-| JavaScript | 130.2 KB | 2.8% | 0.68 |
-| HCL | 879.4 KB | 19.1% | 4.58 |
+| JavaScript | 130.2 KB | 2.8% | 0.72 |
+| HCL | 942.8 KB | 20.2% | 5.24 |
 | PLpgSQL | 26.0 KB | 0.6% | 0.14 |
-
-### scrollz-app/scrollz — 22 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| TypeScript | 1.1 MB | 79.5% | 17.49 |
-| JavaScript | 8.1 KB | 0.6% | 0.12 |
-| Python | 239.2 KB | 16.7% | 3.67 |
-| PLpgSQL | 39.0 KB | 2.7% | 0.60 |
-| Shell | 2.4 KB | 0.2% | 0.04 |
-| Makefile | 5.1 KB | 0.4% | 0.08 |
 
 ### johnlarkin1/generative-handwriting — 21 commits
 
@@ -440,6 +429,17 @@ Generated: 2026-05-31T08:10:36.676Z
 | Makefile | 333 B | 0.5% | 0.10 |
 | Dockerfile | 5.2 KB | 8.8% | 1.67 |
 | HCL | 28.6 KB | 48.4% | 9.19 |
+
+### scrollz-app/scrollz — 19 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| TypeScript | 1.1 MB | 79.5% | 15.11 |
+| JavaScript | 8.1 KB | 0.6% | 0.11 |
+| Python | 239.2 KB | 16.7% | 3.17 |
+| PLpgSQL | 39.0 KB | 2.7% | 0.52 |
+| Shell | 2.4 KB | 0.2% | 0.03 |
+| Makefile | 5.1 KB | 0.4% | 0.07 |
 
 ### johnlarkin1/rebar-eng-ops — 18 commits
 
@@ -495,19 +495,19 @@ Generated: 2026-05-31T08:10:36.676Z
 |----------|-------|-----------|----------------------|
 | Shell | 45.1 KB | 100.0% | 12 |
 
-### Rebar-Team/websocket-lambda — 9 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| Python | 263.8 KB | 99.8% | 8.98 |
-| Makefile | 623 B | 0.2% | 0.02 |
-
 ### johnlarkin1/wunder-lob-predictor — 9 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
 | Python | 796.3 KB | 99.8% | 8.98 |
 | Makefile | 1.7 KB | 0.2% | 0.02 |
+
+### Rebar-Team/websocket-lambda — 9 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Python | 263.8 KB | 99.8% | 8.98 |
+| Makefile | 623 B | 0.2% | 0.02 |
 
 ### johnlarkin1/anduril-ai-gp — 8 commits
 
