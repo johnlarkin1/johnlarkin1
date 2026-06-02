@@ -1,33 +1,33 @@
 # Language Distribution Report
 
-Generated: 2026-06-01T10:14:00.715Z
+Generated: 2026-06-02T09:03:09.849Z
 
-- **Repos analyzed:** 74
-- **Repos skipped** (no language data or all excluded): 10
+- **Repos analyzed:** 75
+- **Repos skipped** (no language data or all excluded): 9
 - **Excluded languages:** html, scss
 
 ## Language Summary (Weighted by Commits)
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 820.58 | 47.7% | 19 |
-| 2 | Python | 340.72 | 19.8% | 57 |
+| 1 | TypeScript | 820.58 | 47.5% | 19 |
+| 2 | Python | 344.20 | 19.9% | 58 |
 | 3 | Swift | 176.25 | 10.2% | 4 |
-| 4 | Rust | 173.16 | 10.1% | 8 |
-| 5 | JavaScript | 117.63 | 6.8% | 28 |
-| 6 | Shell | 28.76 | 1.7% | 27 |
-| 7 | HCL | 20.36 | 1.2% | 5 |
-| 8 | Makefile | 15.96 | 0.9% | 35 |
+| 4 | Rust | 173.16 | 10.0% | 8 |
+| 5 | JavaScript | 117.74 | 6.8% | 28 |
+| 6 | Shell | 29.34 | 1.7% | 28 |
+| 7 | HCL | 22.15 | 1.3% | 5 |
+| 8 | Makefile | 15.97 | 0.9% | 36 |
 | 9 | Jupyter Notebook | 6.15 | 0.4% | 2 |
-| 10 | Vim Snippet | 5 | 0.3% | 1 |
+| 10 | Vim Snippet | 6 | 0.3% | 1 |
 | 11 | Jinja | 4.35 | 0.3% | 2 |
-| 12 | Dockerfile | 3.32 | 0.2% | 8 |
+| 12 | Dockerfile | 3.33 | 0.2% | 8 |
 | 13 | Ruby | 3.30 | 0.2% | 3 |
 | 14 | MDX | 2.98 | 0.2% | 2 |
 | 15 | Astro | 1.07 | 0.1% | 1 |
 | 16 | Objective-C | 0.84 | 0.0% | 1 |
 | 17 | Go | 0.76 | 0.0% | 1 |
-| 18 | PLpgSQL | 0.66 | 0.0% | 2 |
+| 18 | PLpgSQL | 0.68 | 0.0% | 2 |
 | 19 | Mako | 0.14 | 0.0% | 2 |
 | 20 | Go Template | 0.01 | 0.0% | 1 |
 | 21 | C | 0.01 | 0.0% | 1 |
@@ -38,7 +38,7 @@ Generated: 2026-06-01T10:14:00.715Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 47.7%
+### TypeScript — 47.5%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -54,21 +54,21 @@ Generated: 2026-06-01T10:14:00.715Z
 | doe-ai/doe-mono | 23.15 | 840.8 KB |
 | ... and 9 more repos | | |
 
-### Python — 19.8%
+### Python — 19.9%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/be-right-back-internal | 50.21 | 474.1 KB |
 | johnlarkin1/afuera | 38.66 | 321.4 KB |
 | johnlarkin1/tennis-scorigami-internal | 29.71 | 335.5 KB |
+| Rebar-Team/rebar-lambdas | 20.64 | 3.2 MB |
 | johnlarkin1/generative-handwriting | 20.52 | 246.7 KB |
-| Rebar-Team/rebar-lambdas | 17.87 | 3.1 MB |
 | johnlarkin1/imessage-data-foundry | 15.92 | 313.1 KB |
 | Rebar-Team/rebar-cc-extensions | 14 | 5.3 KB |
 | johnlarkin1/rebar-eng-ops | 13.88 | 117.1 KB |
 | johnlarkin1/antssembly-moment | 9.18 | 58.3 KB |
 | johnlarkin1/wunder-lob-predictor | 8.98 | 796.3 KB |
-| ... and 47 more repos | | |
+| ... and 48 more repos | | |
 
 ### Swift — 10.2%
 
@@ -77,9 +77,9 @@ Generated: 2026-06-01T10:14:00.715Z
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.99 | 9.3 MB |
+| steipete/CodexBar | 0.99 | 9.4 MB |
 
-### Rust — 10.1%
+### Rust — 10.0%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -115,22 +115,22 @@ Generated: 2026-06-01T10:14:00.715Z
 | johnlarkin1/claude-code-extensions | 12 | 45.1 KB |
 | johnlarkin1/be-right-back-internal | 4.26 | 40.2 KB |
 | johnlarkin1/claude-extended-flags | 4 | 35.7 KB |
+| Rebar-Team/rebar-lambdas | 2.24 | 350.4 KB |
 | johnlarkin1/larkin-mcp | 2.06 | 13.1 KB |
-| Rebar-Team/rebar-lambdas | 1.95 | 350.4 KB |
 | Rebar-Team/rebar-interview-review | 1.34 | 18.9 KB |
 | johnlarkin1/rebar-eng-ops | 0.63 | 5.3 KB |
 | johnlarkin1/antssembly-moment | 0.61 | 3.9 KB |
 | johnlarkin1/afuera | 0.41 | 3.4 KB |
 | johnlarkin1/generative-handwriting | 0.34 | 4.1 KB |
-| ... and 17 more repos | | |
+| ... and 18 more repos | | |
 
-### HCL — 1.2%
+### HCL — 1.3%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | Rebar-Team/download-pdf | 9.19 | 28.6 KB |
-| Rebar-Team/rebar-lambdas | 5.24 | 942.8 KB |
-| Rebar-Team/rebar-infra | 3.95 | 741.7 KB |
+| Rebar-Team/rebar-lambdas | 6.05 | 945.4 KB |
+| Rebar-Team/rebar-infra | 4.94 | 741.7 KB |
 | Rebar-Team/rebar-interview-review | 1.40 | 19.7 KB |
 | johnlarkin1/topspin-trading | 0.58 | 18.0 KB |
 
@@ -148,7 +148,7 @@ Generated: 2026-06-01T10:14:00.715Z
 | johnlarkin1/johnlarkin1.github.io | 0.57 | 1.1 KB |
 | johnlarkin1/onco-menopause-risk-calculator | 0.49 | 2.4 KB |
 | johnlarkin1/tennis-scorigami-internal | 0.36 | 4.0 KB |
-| ... and 25 more repos | | |
+| ... and 26 more repos | | |
 
 ### Jupyter Notebook — 0.4%
 
@@ -161,7 +161,7 @@ Generated: 2026-06-01T10:14:00.715Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/rebar-reusable-ghas | 5 | 528 B |
+| Rebar-Team/rebar-reusable-ghas | 6 | 528 B |
 
 ### Jinja — 0.3%
 
@@ -179,7 +179,7 @@ Generated: 2026-06-01T10:14:00.715Z
 | johnlarkin1/afuera | 0.12 | 1003 B |
 | Rebar-Team/rebar-interview-review | 0.10 | 1.5 KB |
 | johnlarkin1/odozi | 0.10 | 696 B |
-| Rebar-Team/rebar-lambdas | 0.06 | 11.3 KB |
+| Rebar-Team/rebar-lambdas | 0.07 | 11.3 KB |
 | Rebar-Team/core | 0.01 | 6.0 KB |
 | Rebar-Team/y-redis-server | 0.00 | 564 B |
 
@@ -221,7 +221,7 @@ Generated: 2026-06-01T10:14:00.715Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | scrollz-app/scrollz | 0.52 | 39.0 KB |
-| Rebar-Team/rebar-lambdas | 0.14 | 26.0 KB |
+| Rebar-Team/rebar-lambdas | 0.17 | 26.0 KB |
 
 ### Mako — 0.0%
 
@@ -313,15 +313,6 @@ Generated: 2026-06-01T10:14:00.715Z
 | Dockerfile | 1003 B | 0.1% | 0.12 |
 | Shell | 3.4 KB | 0.3% | 0.41 |
 
-### johnlarkin1/tennis-scorigami — 98 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| JavaScript | 19.7 KB | 3.0% | 2.91 |
-| TypeScript | 627.9 KB | 94.5% | 92.64 |
-| Makefile | 4.0 KB | 0.6% | 0.59 |
-| MDX | 12.6 KB | 1.9% | 1.86 |
-
 ### johnlarkin1/tennis-scorigami-internal — 98 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
@@ -333,6 +324,15 @@ Generated: 2026-06-01T10:14:00.715Z
 | Mako | 635 B | 0.1% | 0.05 |
 | MDX | 12.6 KB | 1.1% | 1.12 |
 | Makefile | 4.0 KB | 0.4% | 0.36 |
+
+### johnlarkin1/tennis-scorigami — 98 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| JavaScript | 19.7 KB | 3.0% | 2.91 |
+| TypeScript | 627.9 KB | 94.5% | 92.64 |
+| Makefile | 4.0 KB | 0.6% | 0.59 |
+| MDX | 12.6 KB | 1.9% | 1.86 |
 
 ### johnlarkin1/johnlarkin1.github.io — 79 commits
 
@@ -394,6 +394,17 @@ Generated: 2026-06-01T10:14:00.715Z
 | Rust | 128.2 KB | 67.2% | 20.17 |
 | Makefile | 237 B | 0.1% | 0.04 |
 
+### Rebar-Team/rebar-lambdas — 30 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Shell | 350.4 KB | 7.5% | 2.24 |
+| Python | 3.2 MB | 68.8% | 20.64 |
+| Dockerfile | 11.3 KB | 0.2% | 0.07 |
+| JavaScript | 130.2 KB | 2.8% | 0.83 |
+| HCL | 945.4 KB | 20.2% | 6.05 |
+| PLpgSQL | 26.0 KB | 0.6% | 0.17 |
+
 ### Rebar-Team/rebar-design — 28 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
@@ -401,17 +412,6 @@ Generated: 2026-06-01T10:14:00.715Z
 | TypeScript | 10.9 MB | 99.8% | 27.94 |
 | JavaScript | 19.0 KB | 0.2% | 0.05 |
 | Shell | 3.6 KB | 0.0% | 0.01 |
-
-### Rebar-Team/rebar-lambdas — 26 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| Shell | 350.4 KB | 7.5% | 1.95 |
-| Python | 3.1 MB | 68.7% | 17.87 |
-| Dockerfile | 11.3 KB | 0.2% | 0.06 |
-| JavaScript | 130.2 KB | 2.8% | 0.72 |
-| HCL | 942.8 KB | 20.2% | 5.24 |
-| PLpgSQL | 26.0 KB | 0.6% | 0.14 |
 
 ### johnlarkin1/generative-handwriting — 21 commits
 
@@ -509,14 +509,6 @@ Generated: 2026-06-01T10:14:00.715Z
 | Python | 263.8 KB | 99.8% | 8.98 |
 | Makefile | 623 B | 0.2% | 0.02 |
 
-### johnlarkin1/anduril-ai-gp — 8 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| Dockerfile | 606 B | 15.7% | 1.25 |
-| Makefile | 2.7 KB | 70.9% | 5.67 |
-| Python | 519 B | 13.4% | 1.07 |
-
 ### Rebar-Team/rebar-analytics — 8 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
@@ -532,10 +524,18 @@ Generated: 2026-06-01T10:14:00.715Z
 | Makefile | 2.4 KB | 0.5% | 0.04 |
 | Shell | 9.2 KB | 1.9% | 0.16 |
 
+### johnlarkin1/anduril-ai-gp — 8 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Dockerfile | 606 B | 15.7% | 1.25 |
+| Makefile | 2.7 KB | 70.9% | 5.67 |
+| Python | 519 B | 13.4% | 1.07 |
+
 ### Rebar-Team/rebar-file-upload — 7 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
 | Python | 220.7 KB | 100.0% | 7 |
 
-*...and 44 more repos*
+*...and 45 more repos*
