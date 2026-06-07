@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-06-06T07:43:09.935Z
+Generated: 2026-06-07T08:19:55.556Z
 
 - **Repos analyzed:** 75
 - **Repos skipped** (no language data or all excluded): 9
@@ -10,14 +10,14 @@ Generated: 2026-06-06T07:43:09.935Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 830.88 | 47.2% | 19 |
-| 2 | Python | 352.85 | 20.0% | 58 |
-| 3 | Rust | 177.71 | 10.1% | 8 |
+| 1 | TypeScript | 830.62 | 47.1% | 19 |
+| 2 | Python | 352.59 | 20.0% | 58 |
+| 3 | Rust | 179.31 | 10.2% | 8 |
 | 4 | Swift | 176.25 | 10.0% | 4 |
-| 5 | JavaScript | 120.14 | 6.8% | 28 |
-| 6 | Shell | 30.32 | 1.7% | 28 |
+| 5 | JavaScript | 120.11 | 6.8% | 28 |
+| 6 | Shell | 30.28 | 1.7% | 28 |
 | 7 | HCL | 26.02 | 1.5% | 5 |
-| 8 | Makefile | 15.98 | 0.9% | 36 |
+| 8 | Makefile | 15.97 | 0.9% | 36 |
 | 9 | Vim Snippet | 7 | 0.4% | 1 |
 | 10 | Jupyter Notebook | 6.15 | 0.3% | 2 |
 | 11 | Jinja | 4.35 | 0.2% | 2 |
@@ -38,12 +38,12 @@ Generated: 2026-06-06T07:43:09.935Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 47.2%
+### TypeScript — 47.1%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | Rebar-Team/app | 304.79 | 13.5 MB |
-| johnlarkin1/be-right-back-internal | 113.20 | 1.1 MB |
+| johnlarkin1/be-right-back-internal | 112.94 | 1.1 MB |
 | johnlarkin1/tennis-scorigami | 92.64 | 627.9 KB |
 | johnlarkin1/tennis-scorigami-internal | 64.53 | 728.8 KB |
 | johnlarkin1/afuera | 47.07 | 391.3 KB |
@@ -58,7 +58,7 @@ Generated: 2026-06-06T07:43:09.935Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| johnlarkin1/be-right-back-internal | 49.43 | 475.7 KB |
+| johnlarkin1/be-right-back-internal | 49.16 | 477.2 KB |
 | johnlarkin1/afuera | 38.66 | 321.4 KB |
 | johnlarkin1/tennis-scorigami-internal | 29.71 | 335.5 KB |
 | Rebar-Team/rebar-lambdas | 28.11 | 3.0 MB |
@@ -70,11 +70,11 @@ Generated: 2026-06-06T07:43:09.935Z
 | johnlarkin1/wunder-lob-predictor | 8.98 | 796.3 KB |
 | ... and 48 more repos | | |
 
-### Rust — 10.1%
+### Rust — 10.2%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| johnlarkin1/be-right-back-internal | 115.26 | 1.1 MB |
+| johnlarkin1/be-right-back-internal | 116.86 | 1.1 MB |
 | johnlarkin1/topspin-trading | 29.61 | 920.8 KB |
 | johnlarkin1/antssembly-moment | 20.17 | 128.2 KB |
 | johnlarkin1/odozi | 5.16 | 35.6 KB |
@@ -90,7 +90,7 @@ Generated: 2026-06-06T07:43:09.935Z
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.99 | 9.5 MB |
+| steipete/CodexBar | 0.99 | 9.6 MB |
 
 ### JavaScript — 6.8%
 
@@ -100,7 +100,7 @@ Generated: 2026-06-06T07:43:09.935Z
 | Rebar-Team/download-pdf | 8.04 | 25.0 KB |
 | johnlarkin1/github-pr-colorizer | 5.75 | 11.2 KB |
 | johnlarkin1/odozi | 4.07 | 28.1 KB |
-| johnlarkin1/be-right-back-internal | 3.85 | 37.1 KB |
+| johnlarkin1/be-right-back-internal | 3.82 | 37.1 KB |
 | Rebar-Team/y-redis-server | 3.81 | 462.4 KB |
 | johnlarkin1/rebar-eng-ops | 3.38 | 28.5 KB |
 | johnlarkin1/tennis-scorigami | 2.91 | 19.7 KB |
@@ -113,7 +113,7 @@ Generated: 2026-06-06T07:43:09.935Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/claude-code-extensions | 12 | 45.1 KB |
-| johnlarkin1/be-right-back-internal | 4.18 | 40.2 KB |
+| johnlarkin1/be-right-back-internal | 4.15 | 40.2 KB |
 | johnlarkin1/claude-extended-flags | 4 | 35.7 KB |
 | Rebar-Team/rebar-lambdas | 3.29 | 356.9 KB |
 | johnlarkin1/larkin-mcp | 2.06 | 13.1 KB |
@@ -277,16 +277,16 @@ Generated: 2026-06-06T07:43:09.935Z
 | JavaScript | 51.4 KB | 0.4% | 1.13 |
 | Shell | 3.6 KB | 0.0% | 0.08 |
 
-### johnlarkin1/be-right-back-internal — 287 commits
+### johnlarkin1/be-right-back-internal — 288 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
 | Makefile | 10.3 KB | 0.4% | 1.07 |
-| Rust | 1.1 MB | 40.2% | 115.26 |
-| JavaScript | 37.1 KB | 1.3% | 3.85 |
-| TypeScript | 1.1 MB | 39.4% | 113.20 |
-| Python | 475.7 KB | 17.2% | 49.43 |
-| Shell | 40.2 KB | 1.5% | 4.18 |
+| Rust | 1.1 MB | 40.6% | 116.86 |
+| JavaScript | 37.1 KB | 1.3% | 3.82 |
+| TypeScript | 1.1 MB | 39.2% | 112.94 |
+| Python | 477.2 KB | 17.1% | 49.16 |
+| Shell | 40.2 KB | 1.4% | 4.15 |
 
 ### johnlarkin1/odozi — 169 commits
 
