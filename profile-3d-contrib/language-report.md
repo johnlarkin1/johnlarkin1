@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-06-13T08:17:54.915Z
+Generated: 2026-06-14T08:38:22.839Z
 
 - **Repos analyzed:** 76
 - **Repos skipped** (no language data or all excluded): 9
@@ -13,7 +13,7 @@ Generated: 2026-06-13T08:17:54.915Z
 | 1 | TypeScript | 835.29 | 47.1% | 19 |
 | 2 | Python | 356.90 | 20.1% | 59 |
 | 3 | Rust | 179.31 | 10.1% | 8 |
-| 4 | Swift | 176.25 | 9.9% | 4 |
+| 4 | Swift | 176.24 | 9.9% | 4 |
 | 5 | JavaScript | 119.38 | 6.7% | 28 |
 | 6 | Shell | 30.29 | 1.7% | 29 |
 | 7 | HCL | 27.50 | 1.6% | 5 |
@@ -90,7 +90,7 @@ Generated: 2026-06-13T08:17:54.915Z
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.99 | 10.9 MB |
+| steipete/CodexBar | 0.99 | 11.2 MB |
 
 ### JavaScript — 6.7%
 
