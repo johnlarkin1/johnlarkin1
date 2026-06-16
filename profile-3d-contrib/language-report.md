@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-06-15T10:51:31.976Z
+Generated: 2026-06-16T10:02:57.081Z
 
 - **Repos analyzed:** 76
 - **Repos skipped** (no language data or all excluded): 9
@@ -10,22 +10,22 @@ Generated: 2026-06-15T10:51:31.976Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 780.37 | 45.6% | 19 |
-| 2 | Python | 345.64 | 20.2% | 59 |
+| 1 | TypeScript | 780.38 | 45.6% | 19 |
+| 2 | Python | 345.24 | 20.2% | 59 |
 | 3 | Rust | 187.13 | 10.9% | 8 |
 | 4 | Swift | 176.24 | 10.3% | 4 |
-| 5 | JavaScript | 117.67 | 6.9% | 28 |
-| 6 | Shell | 30.32 | 1.8% | 29 |
-| 7 | HCL | 27.43 | 1.6% | 5 |
+| 5 | JavaScript | 117.62 | 6.9% | 28 |
+| 6 | Shell | 30.42 | 1.8% | 29 |
+| 7 | HCL | 27.80 | 1.6% | 5 |
 | 8 | Makefile | 15.42 | 0.9% | 37 |
 | 9 | Vim Snippet | 7 | 0.4% | 1 |
 | 10 | Jupyter Notebook | 6.15 | 0.4% | 2 |
 | 11 | Jinja | 4.07 | 0.2% | 2 |
-| 12 | Dockerfile | 3.46 | 0.2% | 9 |
+| 12 | Dockerfile | 3.45 | 0.2% | 9 |
 | 13 | Ruby | 3.30 | 0.2% | 3 |
 | 14 | Go | 1.46 | 0.1% | 2 |
 | 15 | MDX | 1.28 | 0.1% | 2 |
-| 16 | PLpgSQL | 1.16 | 0.1% | 4 |
+| 16 | PLpgSQL | 1.15 | 0.1% | 4 |
 | 17 | Astro | 0.94 | 0.1% | 1 |
 | 18 | Objective-C | 0.83 | 0.0% | 1 |
 | 19 | Mako | 0.11 | 0.0% | 2 |
@@ -60,7 +60,7 @@ Generated: 2026-06-15T10:51:31.976Z
 |------|----------------------|-------|
 | johnlarkin1/be-right-back-internal | 49.66 | 477.2 KB |
 | johnlarkin1/afuera | 38.66 | 321.4 KB |
-| Rebar-Team/rebar-lambdas | 31.57 | 3.1 MB |
+| Rebar-Team/rebar-lambdas | 31.18 | 3.2 MB |
 | johnlarkin1/generative-handwriting | 20.52 | 246.7 KB |
 | johnlarkin1/imessage-data-foundry | 15.92 | 313.1 KB |
 | Rebar-Team/rebar-cc-extensions | 14 | 5.3 KB |
@@ -90,7 +90,7 @@ Generated: 2026-06-15T10:51:31.976Z
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.99 | 11.3 MB |
+| steipete/CodexBar | 0.99 | 11.5 MB |
 
 ### JavaScript — 6.9%
 
@@ -105,7 +105,7 @@ Generated: 2026-06-15T10:51:31.976Z
 | johnlarkin1/rebar-eng-ops | 3.38 | 28.5 KB |
 | johnlarkin1/github-pr-formatter | 2 | 4.8 KB |
 | Rebar-Team/rebar-notion-integration | 1.78 | 97.1 KB |
-| Rebar-Team/rebar-lambdas | 1.31 | 132.5 KB |
+| Rebar-Team/rebar-lambdas | 1.27 | 132.5 KB |
 | ... and 18 more repos | | |
 
 ### Shell — 1.8%
@@ -115,7 +115,7 @@ Generated: 2026-06-15T10:51:31.976Z
 | johnlarkin1/claude-code-extensions | 12 | 45.1 KB |
 | johnlarkin1/be-right-back-internal | 4.19 | 40.2 KB |
 | johnlarkin1/claude-extended-flags | 4 | 35.7 KB |
-| Rebar-Team/rebar-lambdas | 3.53 | 356.9 KB |
+| Rebar-Team/rebar-lambdas | 3.63 | 378.3 KB |
 | johnlarkin1/larkin-mcp | 2.06 | 13.1 KB |
 | Rebar-Team/rebar-interviews | 1.04 | 19.8 KB |
 | johnlarkin1/rebar-eng-ops | 0.63 | 5.3 KB |
@@ -128,7 +128,7 @@ Generated: 2026-06-15T10:51:31.976Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/rebar-lambdas | 9.81 | 991.3 KB |
+| Rebar-Team/rebar-lambdas | 10.18 | 1.0 MB |
 | Rebar-Team/download-pdf | 9.19 | 28.6 KB |
 | Rebar-Team/rebar-infra | 6.88 | 773.6 KB |
 | Rebar-Team/rebar-interviews | 1.04 | 19.7 KB |
@@ -210,7 +210,7 @@ Generated: 2026-06-15T10:51:31.976Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/rebar-lambdas | 0.56 | 56.2 KB |
+| Rebar-Team/rebar-lambdas | 0.54 | 56.2 KB |
 | scrollz-app/scrollz | 0.41 | 39.0 KB |
 | Rebar-Team/rebar-dashboard | 0.16 | 49.2 KB |
 | Rebar-Team/rebar-infra | 0.04 | 4.5 KB |
@@ -330,12 +330,12 @@ Generated: 2026-06-15T10:51:31.976Z
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| Shell | 356.9 KB | 7.5% | 3.53 |
-| Python | 3.1 MB | 67.2% | 31.57 |
-| Dockerfile | 21.6 KB | 0.5% | 0.21 |
-| JavaScript | 132.5 KB | 2.8% | 1.31 |
-| HCL | 991.3 KB | 20.9% | 9.81 |
-| PLpgSQL | 56.2 KB | 1.2% | 0.56 |
+| Shell | 378.3 KB | 7.7% | 3.63 |
+| Python | 3.2 MB | 66.3% | 31.18 |
+| Dockerfile | 21.6 KB | 0.4% | 0.21 |
+| JavaScript | 132.5 KB | 2.7% | 1.27 |
+| HCL | 1.0 MB | 21.7% | 10.18 |
+| PLpgSQL | 56.2 KB | 1.1% | 0.54 |
 
 ### johnlarkin1/onco-menopause-risk-calculator — 47 commits
 
