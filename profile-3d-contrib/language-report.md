@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-06-18T09:10:38.688Z
+Generated: 2026-06-19T09:25:58.270Z
 
 - **Repos analyzed:** 77
 - **Repos skipped** (no language data or all excluded): 9
@@ -10,16 +10,16 @@ Generated: 2026-06-18T09:10:38.688Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 789.89 | 45.6% | 20 |
-| 2 | Python | 351.39 | 20.3% | 60 |
+| 1 | TypeScript | 790.88 | 45.7% | 20 |
+| 2 | Python | 351.42 | 20.3% | 60 |
 | 3 | Rust | 187.98 | 10.9% | 8 |
 | 4 | Swift | 176.24 | 10.2% | 4 |
-| 5 | JavaScript | 117.99 | 6.8% | 29 |
+| 5 | JavaScript | 117.35 | 6.8% | 29 |
 | 6 | HCL | 31.97 | 1.8% | 5 |
-| 7 | Shell | 31.22 | 1.8% | 30 |
+| 7 | Shell | 31.21 | 1.8% | 30 |
 | 8 | Makefile | 15.43 | 0.9% | 37 |
 | 9 | Vim Snippet | 7 | 0.4% | 1 |
-| 10 | Jupyter Notebook | 6.15 | 0.4% | 2 |
+| 10 | Jupyter Notebook | 5.79 | 0.3% | 2 |
 | 11 | Jinja | 4.07 | 0.2% | 2 |
 | 12 | Dockerfile | 3.47 | 0.2% | 10 |
 | 13 | Ruby | 3.30 | 0.2% | 3 |
@@ -38,11 +38,11 @@ Generated: 2026-06-18T09:10:38.688Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 45.6%
+### TypeScript — 45.7%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/app | 352.63 | 13.9 MB |
+| Rebar-Team/app | 353.63 | 14.0 MB |
 | johnlarkin1/be-right-back-internal | 116.54 | 1.1 MB |
 | johnlarkin1/afuera | 47.07 | 391.3 KB |
 | johnlarkin1/onco-menopause-risk-calculator | 46.43 | 232.4 KB |
@@ -90,7 +90,7 @@ Generated: 2026-06-18T09:10:38.688Z
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.99 | 11.6 MB |
+| steipete/CodexBar | 0.99 | 11.8 MB |
 
 ### JavaScript — 6.8%
 
@@ -101,8 +101,8 @@ Generated: 2026-06-18T09:10:38.688Z
 | johnlarkin1/github-pr-colorizer | 5.75 | 11.2 KB |
 | johnlarkin1/odozi | 4.07 | 28.1 KB |
 | johnlarkin1/be-right-back-internal | 3.86 | 37.1 KB |
-| Rebar-Team/y-redis-server | 3.81 | 462.4 KB |
 | johnlarkin1/rebar-eng-ops | 3.38 | 28.5 KB |
+| Rebar-Team/y-redis-server | 3.17 | 462.4 KB |
 | johnlarkin1/github-pr-formatter | 2 | 4.8 KB |
 | Rebar-Team/rebar-notion-integration | 1.78 | 97.1 KB |
 | Rebar-Team/rebar-lambdas | 1.36 | 132.5 KB |
@@ -112,7 +112,7 @@ Generated: 2026-06-18T09:10:38.688Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/rebar-lambdas | 11.60 | 1.1 MB |
+| Rebar-Team/rebar-lambdas | 11.59 | 1.1 MB |
 | Rebar-Team/rebar-infra | 9.63 | 851.0 KB |
 | Rebar-Team/download-pdf | 9.19 | 28.6 KB |
 | Rebar-Team/rebar-interviews | 1.04 | 19.7 KB |
@@ -156,12 +156,12 @@ Generated: 2026-06-18T09:10:38.688Z
 |------|----------------------|-------|
 | Rebar-Team/rebar-reusable-ghas | 7 | 528 B |
 
-### Jupyter Notebook — 0.4%
+### Jupyter Notebook — 0.3%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/little-book-of-linalg | 4.00 | 2.6 MB |
-| Rebar-Team/y-redis-server | 2.15 | 261.7 KB |
+| Rebar-Team/y-redis-server | 1.79 | 261.7 KB |
 
 ### Jinja — 0.2%
 
@@ -273,11 +273,11 @@ Generated: 2026-06-18T09:10:38.688Z
 
 ## Per-Repo Breakdown (Top 30 by Commits)
 
-### Rebar-Team/app — 354 commits
+### Rebar-Team/app — 355 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| TypeScript | 13.9 MB | 99.6% | 352.63 |
+| TypeScript | 14.0 MB | 99.6% | 353.63 |
 | JavaScript | 51.8 KB | 0.4% | 1.28 |
 | Shell | 3.6 KB | 0.0% | 0.09 |
 
@@ -335,7 +335,7 @@ Generated: 2026-06-18T09:10:38.688Z
 | Python | 3.3 MB | 66.5% | 35.24 |
 | Dockerfile | 21.6 KB | 0.4% | 0.22 |
 | JavaScript | 132.5 KB | 2.6% | 1.36 |
-| HCL | 1.1 MB | 21.9% | 11.60 |
+| HCL | 1.1 MB | 21.9% | 11.59 |
 | PLpgSQL | 56.2 KB | 1.1% | 0.58 |
 
 ### johnlarkin1/onco-menopause-risk-calculator — 47 commits
