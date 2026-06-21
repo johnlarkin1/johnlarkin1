@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-06-20T08:18:40.936Z
+Generated: 2026-06-21T08:54:50.546Z
 
 - **Repos analyzed:** 77
 - **Repos skipped** (no language data or all excluded): 9
@@ -10,13 +10,13 @@ Generated: 2026-06-20T08:18:40.936Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 801.84 | 46.0% | 20 |
-| 2 | Python | 351.33 | 20.2% | 60 |
+| 1 | TypeScript | 802.84 | 46.0% | 20 |
+| 2 | Python | 351.36 | 20.1% | 60 |
 | 3 | Rust | 187.98 | 10.8% | 8 |
 | 4 | Swift | 176.24 | 10.1% | 4 |
-| 5 | JavaScript | 117.38 | 6.7% | 29 |
+| 5 | JavaScript | 117.37 | 6.7% | 29 |
 | 6 | HCL | 32.00 | 1.8% | 5 |
-| 7 | Shell | 31.29 | 1.8% | 30 |
+| 7 | Shell | 31.27 | 1.8% | 30 |
 | 8 | Makefile | 15.43 | 0.9% | 37 |
 | 9 | Vim Snippet | 7 | 0.4% | 1 |
 | 10 | Jupyter Notebook | 5.79 | 0.3% | 2 |
@@ -42,7 +42,7 @@ Generated: 2026-06-20T08:18:40.936Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/app | 364.59 | 14.0 MB |
+| Rebar-Team/app | 365.59 | 14.0 MB |
 | johnlarkin1/be-right-back-internal | 116.54 | 1.1 MB |
 | johnlarkin1/afuera | 47.07 | 391.3 KB |
 | johnlarkin1/onco-menopause-risk-calculator | 46.43 | 232.4 KB |
@@ -54,7 +54,7 @@ Generated: 2026-06-20T08:18:40.936Z
 | doe-ai/doe-mono | 23.15 | 840.8 KB |
 | ... and 10 more repos | | |
 
-### Python — 20.2%
+### Python — 20.1%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -274,11 +274,11 @@ Generated: 2026-06-20T08:18:40.936Z
 
 ## Per-Repo Breakdown (Top 30 by Commits)
 
-### Rebar-Team/app — 366 commits
+### Rebar-Team/app — 367 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| TypeScript | 14.0 MB | 99.6% | 364.59 |
+| TypeScript | 14.0 MB | 99.6% | 365.59 |
 | JavaScript | 51.8 KB | 0.4% | 1.32 |
 | Shell | 3.6 KB | 0.0% | 0.09 |
 
