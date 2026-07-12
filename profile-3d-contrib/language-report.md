@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-07-11T07:07:47.222Z
+Generated: 2026-07-12T07:25:31.161Z
 
 - **Repos analyzed:** 77
 - **Repos skipped** (no language data or all excluded): 10
@@ -10,13 +10,13 @@ Generated: 2026-07-11T07:07:47.222Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 850.14 | 45.7% | 20 |
-| 2 | Python | 395.93 | 21.3% | 61 |
+| 1 | TypeScript | 850.11 | 45.7% | 20 |
+| 2 | Python | 395.97 | 21.3% | 61 |
 | 3 | Rust | 188.74 | 10.2% | 8 |
 | 4 | Swift | 176.24 | 9.5% | 4 |
-| 5 | JavaScript | 119.48 | 6.4% | 29 |
+| 5 | JavaScript | 119.47 | 6.4% | 29 |
 | 6 | HCL | 47.08 | 2.5% | 6 |
-| 7 | Shell | 39.29 | 2.1% | 31 |
+| 7 | Shell | 39.28 | 2.1% | 31 |
 | 8 | Makefile | 15.23 | 0.8% | 37 |
 | 9 | Jupyter Notebook | 7.48 | 0.4% | 2 |
 | 10 | Jinja | 3.93 | 0.2% | 2 |
@@ -90,7 +90,7 @@ Generated: 2026-07-11T07:07:47.222Z
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.99 | 14.7 MB |
+| steipete/CodexBar | 0.99 | 15.4 MB |
 
 ### JavaScript — 6.4%
 
