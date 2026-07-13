@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-07-12T07:25:31.161Z
+Generated: 2026-07-13T08:12:08.227Z
 
 - **Repos analyzed:** 77
 - **Repos skipped** (no language data or all excluded): 10
@@ -10,11 +10,11 @@ Generated: 2026-07-12T07:25:31.161Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 850.11 | 45.7% | 20 |
+| 1 | TypeScript | 852.10 | 45.8% | 20 |
 | 2 | Python | 395.97 | 21.3% | 61 |
-| 3 | Rust | 188.74 | 10.2% | 8 |
+| 3 | Rust | 188.74 | 10.1% | 8 |
 | 4 | Swift | 176.24 | 9.5% | 4 |
-| 5 | JavaScript | 119.47 | 6.4% | 29 |
+| 5 | JavaScript | 119.48 | 6.4% | 29 |
 | 6 | HCL | 47.08 | 2.5% | 6 |
 | 7 | Shell | 39.28 | 2.1% | 31 |
 | 8 | Makefile | 15.23 | 0.8% | 37 |
@@ -38,11 +38,11 @@ Generated: 2026-07-12T07:25:31.161Z
 
 ## Per-Language Breakdown (Top Repos)
 
-### TypeScript — 45.7%
+### TypeScript — 45.8%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/app | 452.43 | 15.6 MB |
+| Rebar-Team/app | 454.42 | 15.6 MB |
 | johnlarkin1/be-right-back-internal | 119.59 | 1.1 MB |
 | johnlarkin1/afuera | 47.07 | 391.3 KB |
 | johnlarkin1/onco-menopause-risk-calculator | 46.43 | 232.4 KB |
@@ -70,7 +70,7 @@ Generated: 2026-07-12T07:25:31.161Z
 | johnlarkin1/antssembly-moment | 9.18 | 58.3 KB |
 | ... and 51 more repos | | |
 
-### Rust — 10.2%
+### Rust — 10.1%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
@@ -90,7 +90,7 @@ Generated: 2026-07-12T07:25:31.161Z
 | johnlarkin1/odozi | 126.92 | 876.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.99 | 15.4 MB |
+| steipete/CodexBar | 0.99 | 15.6 MB |
 
 ### JavaScript — 6.4%
 
@@ -275,11 +275,11 @@ Generated: 2026-07-12T07:25:31.161Z
 
 ## Per-Repo Breakdown (Top 30 by Commits)
 
-### Rebar-Team/app — 454 commits
+### Rebar-Team/app — 456 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| TypeScript | 15.6 MB | 99.7% | 452.43 |
+| TypeScript | 15.6 MB | 99.7% | 454.42 |
 | JavaScript | 51.8 KB | 0.3% | 1.47 |
 | Shell | 3.6 KB | 0.0% | 0.10 |
 
