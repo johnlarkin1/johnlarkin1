@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-07-25T07:11:16.716Z
+Generated: 2026-07-26T07:32:20.392Z
 
 - **Repos analyzed:** 78
 - **Repos skipped** (no language data or all excluded): 9
@@ -10,12 +10,12 @@ Generated: 2026-07-25T07:11:16.716Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 869.08 | 46.1% | 21 |
-| 2 | Python | 388.08 | 20.6% | 61 |
+| 1 | TypeScript | 869.10 | 46.1% | 21 |
+| 2 | Python | 388.07 | 20.6% | 61 |
 | 3 | Rust | 191.95 | 10.2% | 9 |
 | 4 | Swift | 176.24 | 9.3% | 4 |
 | 5 | JavaScript | 121.54 | 6.4% | 31 |
-| 6 | Shell | 49.28 | 2.6% | 32 |
+| 6 | Shell | 49.27 | 2.6% | 32 |
 | 7 | HCL | 47.44 | 2.5% | 6 |
 | 8 | Makefile | 15.24 | 0.8% | 39 |
 | 9 | Jupyter Notebook | 7.80 | 0.4% | 2 |
