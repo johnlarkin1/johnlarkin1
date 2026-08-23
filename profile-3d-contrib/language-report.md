@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-08-22T05:20:17.893Z
+Generated: 2026-08-23T05:22:26.689Z
 
 - **Repos analyzed:** 81
 - **Repos skipped** (no language data or all excluded): 9
@@ -11,15 +11,15 @@ Generated: 2026-08-22T05:20:17.893Z
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
 | 1 | TypeScript | 992.26 | 46.4% | 22 |
-| 2 | Python | 464.28 | 21.7% | 65 |
+| 2 | Python | 464.25 | 21.7% | 65 |
 | 3 | Rust | 197.02 | 9.2% | 9 |
 | 4 | Swift | 179.60 | 8.4% | 4 |
-| 5 | JavaScript | 127.47 | 6.0% | 31 |
+| 5 | JavaScript | 127.72 | 6.0% | 31 |
 | 6 | HCL | 64.04 | 3.0% | 8 |
-| 7 | Shell | 56.43 | 2.6% | 35 |
+| 7 | Shell | 56.42 | 2.6% | 35 |
 | 8 | Go | 15.88 | 0.7% | 3 |
 | 9 | Makefile | 15.56 | 0.7% | 40 |
-| 10 | Jupyter Notebook | 7.96 | 0.4% | 2 |
+| 10 | Jupyter Notebook | 7.77 | 0.4% | 2 |
 | 11 | Dockerfile | 4.11 | 0.2% | 14 |
 | 12 | Jinja | 3.93 | 0.2% | 2 |
 | 13 | PLpgSQL | 3.69 | 0.2% | 4 |
@@ -98,7 +98,7 @@ Generated: 2026-08-22T05:20:17.893Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/johnlarkin1.github.io | 75.84 | 153.3 KB |
-| Rebar-Team/y-redis-server | 11.78 | 961.0 KB |
+| Rebar-Team/y-redis-server | 12.03 | 1.2 MB |
 | Rebar-Team/download-pdf | 8.04 | 25.0 KB |
 | johnlarkin1/github-pr-colorizer | 6.75 | 13.2 KB |
 | johnlarkin1/odozi | 3.93 | 28.1 KB |
@@ -167,7 +167,7 @@ Generated: 2026-08-22T05:20:17.893Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/little-book-of-linalg | 4.00 | 2.6 MB |
-| Rebar-Team/y-redis-server | 3.96 | 323.4 KB |
+| Rebar-Team/y-redis-server | 3.77 | 378.3 KB |
 
 ### Dockerfile — 0.2%
 
@@ -510,10 +510,10 @@ Generated: 2026-08-22T05:20:17.893Z
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
 | Dockerfile | 564 B | 0.0% | 0.01 |
-| JavaScript | 961.0 KB | 73.6% | 11.78 |
-| Jupyter Notebook | 323.4 KB | 24.8% | 3.96 |
-| Shell | 4.3 KB | 0.3% | 0.05 |
-| Python | 16.1 KB | 1.2% | 0.20 |
+| JavaScript | 1.2 MB | 75.2% | 12.03 |
+| Jupyter Notebook | 378.3 KB | 23.5% | 3.77 |
+| Shell | 4.3 KB | 0.3% | 0.04 |
+| Python | 16.1 KB | 1.0% | 0.16 |
 
 ### johnlarkin1/imessage-data-foundry — 16 commits
 
