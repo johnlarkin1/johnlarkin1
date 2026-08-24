@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-08-23T05:22:26.689Z
+Generated: 2026-08-24T05:32:28.293Z
 
 - **Repos analyzed:** 81
 - **Repos skipped** (no language data or all excluded): 9
@@ -11,7 +11,7 @@ Generated: 2026-08-23T05:22:26.689Z
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
 | 1 | TypeScript | 992.26 | 46.4% | 22 |
-| 2 | Python | 464.25 | 21.7% | 65 |
+| 2 | Python | 464.24 | 21.7% | 65 |
 | 3 | Rust | 197.02 | 9.2% | 9 |
 | 4 | Swift | 179.60 | 8.4% | 4 |
 | 5 | JavaScript | 127.72 | 6.0% | 31 |
@@ -91,7 +91,7 @@ Generated: 2026-08-23T05:22:26.689Z
 | johnlarkin1/odozi | 130.37 | 932.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.89 | 24.1 MB |
+| steipete/CodexBar | 0.89 | 24.3 MB |
 
 ### JavaScript — 6.0%
 
@@ -225,7 +225,7 @@ Generated: 2026-08-23T05:22:26.689Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| gnachman/iTerm2 | 0.83 | 18.1 MB |
+| gnachman/iTerm2 | 0.83 | 18.2 MB |
 
 ### MDX — 0.0%
 
@@ -238,7 +238,7 @@ Generated: 2026-08-23T05:22:26.689Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| steipete/CodexBar | 0.10 | 2.6 MB |
+| steipete/CodexBar | 0.09 | 2.6 MB |
 | gnachman/iTerm2 | 0.01 | 211.8 KB |
 
 ### Mako — 0.0%
