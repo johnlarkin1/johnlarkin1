@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-08-28T17:06:29.165Z
+Generated: 2026-08-29T11:26:43.132Z
 
 - **Repos analyzed:** 81
 - **Repos skipped** (no language data or all excluded): 9
@@ -10,11 +10,11 @@ Generated: 2026-08-28T17:06:29.165Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 1003.28 | 46.2% | 22 |
-| 2 | Python | 476.86 | 22.0% | 65 |
+| 1 | TypeScript | 1003.27 | 46.2% | 22 |
+| 2 | Python | 476.87 | 22.0% | 65 |
 | 3 | Rust | 197.02 | 9.1% | 9 |
 | 4 | Swift | 179.60 | 8.3% | 4 |
-| 5 | JavaScript | 130.66 | 6.0% | 33 |
+| 5 | JavaScript | 130.65 | 6.0% | 33 |
 | 6 | HCL | 67.14 | 3.1% | 8 |
 | 7 | Shell | 57.13 | 2.6% | 35 |
 | 8 | Go | 16.29 | 0.8% | 3 |
@@ -42,7 +42,7 @@ Generated: 2026-08-28T17:06:29.165Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/app | 606.25 | 21.7 MB |
+| Rebar-Team/app | 606.25 | 21.8 MB |
 | johnlarkin1/be-right-back-internal | 118.74 | 1.1 MB |
 | johnlarkin1/afuera | 47.07 | 391.3 KB |
 | johnlarkin1/onco-menopause-risk-calculator | 46.43 | 232.4 KB |
@@ -91,7 +91,7 @@ Generated: 2026-08-28T17:06:29.165Z
 | johnlarkin1/odozi | 130.37 | 932.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.89 | 25.1 MB |
+| steipete/CodexBar | 0.89 | 25.2 MB |
 
 ### JavaScript — 6.0%
 
@@ -225,7 +225,7 @@ Generated: 2026-08-28T17:06:29.165Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| gnachman/iTerm2 | 0.83 | 18.2 MB |
+| gnachman/iTerm2 | 0.83 | 18.3 MB |
 
 ### MDX — 0.0%
 
@@ -284,7 +284,7 @@ Generated: 2026-08-28T17:06:29.165Z
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| TypeScript | 21.7 MB | 99.7% | 606.25 |
+| TypeScript | 21.8 MB | 99.7% | 606.25 |
 | JavaScript | 60.8 KB | 0.3% | 1.65 |
 | Shell | 3.6 KB | 0.0% | 0.10 |
 
