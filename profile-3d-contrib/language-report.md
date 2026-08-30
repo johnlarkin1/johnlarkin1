@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-08-29T11:26:43.132Z
+Generated: 2026-08-30T10:13:00.674Z
 
 - **Repos analyzed:** 81
 - **Repos skipped** (no language data or all excluded): 9
@@ -91,7 +91,7 @@ Generated: 2026-08-29T11:26:43.132Z
 | johnlarkin1/odozi | 130.37 | 932.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.89 | 25.2 MB |
+| steipete/CodexBar | 0.89 | 25.3 MB |
 
 ### JavaScript — 6.0%
 
