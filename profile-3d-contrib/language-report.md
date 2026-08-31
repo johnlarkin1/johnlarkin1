@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-08-30T10:13:00.674Z
+Generated: 2026-08-31T11:17:06.018Z
 
 - **Repos analyzed:** 81
 - **Repos skipped** (no language data or all excluded): 9
@@ -10,17 +10,17 @@ Generated: 2026-08-30T10:13:00.674Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 1003.27 | 46.2% | 22 |
-| 2 | Python | 476.87 | 22.0% | 65 |
+| 1 | TypeScript | 1000.89 | 46.2% | 22 |
+| 2 | Python | 476.37 | 22.0% | 65 |
 | 3 | Rust | 197.02 | 9.1% | 9 |
 | 4 | Swift | 179.60 | 8.3% | 4 |
-| 5 | JavaScript | 130.65 | 6.0% | 33 |
+| 5 | JavaScript | 130.63 | 6.0% | 33 |
 | 6 | HCL | 67.14 | 3.1% | 8 |
 | 7 | Shell | 57.13 | 2.6% | 35 |
 | 8 | Go | 16.29 | 0.8% | 3 |
-| 9 | Makefile | 15.58 | 0.7% | 40 |
+| 9 | Makefile | 15.57 | 0.7% | 40 |
 | 10 | Jupyter Notebook | 8.02 | 0.4% | 2 |
-| 11 | PLpgSQL | 4.56 | 0.2% | 4 |
+| 11 | PLpgSQL | 4.48 | 0.2% | 4 |
 | 12 | Dockerfile | 4.19 | 0.2% | 14 |
 | 13 | Jinja | 3.93 | 0.2% | 2 |
 | 14 | Ruby | 3.19 | 0.1% | 3 |
@@ -91,7 +91,7 @@ Generated: 2026-08-30T10:13:00.674Z
 | johnlarkin1/odozi | 130.37 | 932.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.89 | 25.3 MB |
+| steipete/CodexBar | 0.89 | 25.4 MB |
 
 ### JavaScript — 6.0%
 
@@ -175,7 +175,7 @@ Generated: 2026-08-30T10:13:00.674Z
 |------|----------------------|-------|
 | Rebar-Team/rebar-lambdas | 2.05 | 106.6 KB |
 | Rebar-Team/rebar-dashboard | 1.91 | 91.3 KB |
-| scrollz-app/scrollz | 0.38 | 39.0 KB |
+| scrollz-app/scrollz | 0.30 | 39.0 KB |
 | Rebar-Team/rebar-infra | 0.22 | 9.1 KB |
 
 ### Dockerfile — 0.2%
@@ -399,15 +399,6 @@ Generated: 2026-08-30T10:13:00.674Z
 | Makefile | 9.3 KB | 0.8% | 0.26 |
 | Ruby | 4.0 KB | 0.3% | 0.11 |
 
-### johnlarkin1/antssembly-moment — 30 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| Python | 58.3 KB | 30.6% | 9.18 |
-| Shell | 3.9 KB | 2.0% | 0.61 |
-| Rust | 128.2 KB | 67.2% | 20.17 |
-| Makefile | 237 B | 0.1% | 0.04 |
-
 ### Rebar-Team/rebar-infra — 30 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
@@ -416,6 +407,15 @@ Generated: 2026-08-30T10:13:00.674Z
 | Shell | 14.6 KB | 1.2% | 0.35 |
 | Python | 42.7 KB | 3.4% | 1.03 |
 | PLpgSQL | 9.1 KB | 0.7% | 0.22 |
+
+### johnlarkin1/antssembly-moment — 30 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| Python | 58.3 KB | 30.6% | 9.18 |
+| Shell | 3.9 KB | 2.0% | 0.61 |
+| Rust | 128.2 KB | 67.2% | 20.17 |
+| Makefile | 237 B | 0.1% | 0.04 |
 
 ### Rebar-Team/rebar-design — 28 commits
 
@@ -546,17 +546,6 @@ Generated: 2026-08-30T10:13:00.674Z
 | MDX | 12.6 KB | 1.1% | 0.17 |
 | Makefile | 4.0 KB | 0.4% | 0.05 |
 
-### scrollz-app/scrollz — 14 commits
-
-| Language | Bytes | % of Repo | Weighted Contributions |
-|----------|-------|-----------|----------------------|
-| TypeScript | 1.1 MB | 79.5% | 11.13 |
-| JavaScript | 8.1 KB | 0.6% | 0.08 |
-| Python | 239.2 KB | 16.7% | 2.33 |
-| PLpgSQL | 39.0 KB | 2.7% | 0.38 |
-| Shell | 2.4 KB | 0.2% | 0.02 |
-| Makefile | 5.1 KB | 0.4% | 0.05 |
-
 ### Rebar-Team/larkin-rebar-dashboard — 14 commits
 
 | Language | Bytes | % of Repo | Weighted Contributions |
@@ -569,5 +558,16 @@ Generated: 2026-08-30T10:13:00.674Z
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
 | Shell | 45.1 KB | 100.0% | 13 |
+
+### scrollz-app/scrollz — 11 commits
+
+| Language | Bytes | % of Repo | Weighted Contributions |
+|----------|-------|-----------|----------------------|
+| TypeScript | 1.1 MB | 79.5% | 8.75 |
+| JavaScript | 8.1 KB | 0.6% | 0.06 |
+| Python | 239.2 KB | 16.7% | 1.83 |
+| PLpgSQL | 39.0 KB | 2.7% | 0.30 |
+| Shell | 2.4 KB | 0.2% | 0.02 |
+| Makefile | 5.1 KB | 0.4% | 0.04 |
 
 *...and 51 more repos*
