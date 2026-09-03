@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-09-02T09:14:14.243Z
+Generated: 2026-09-03T09:22:04.945Z
 
 - **Repos analyzed:** 81
 - **Repos skipped** (no language data or all excluded): 9
@@ -62,7 +62,7 @@ Generated: 2026-09-02T09:14:14.243Z
 | johnlarkin1/be-right-back-internal | 49.42 | 483.1 KB |
 | Rebar-Team/rebar-bid-triage | 47.38 | 753.1 KB |
 | johnlarkin1/afuera | 38.66 | 321.4 KB |
-| Rebar-Team/core | 18.95 | 11.3 MB |
+| Rebar-Team/core | 18.95 | 11.4 MB |
 | johnlarkin1/generative-handwriting | 18.57 | 246.7 KB |
 | johnlarkin1/imessage-data-foundry | 15.92 | 313.1 KB |
 | Rebar-Team/rebar-reusable-ghas | 14.23 | 7.0 KB |
@@ -91,7 +91,7 @@ Generated: 2026-09-02T09:14:14.243Z
 | johnlarkin1/odozi | 130.37 | 932.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.89 | 25.8 MB |
+| steipete/CodexBar | 0.89 | 25.9 MB |
 
 ### JavaScript — 6.0%
 
@@ -225,7 +225,7 @@ Generated: 2026-09-02T09:14:14.243Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| gnachman/iTerm2 | 0.83 | 18.3 MB |
+| gnachman/iTerm2 | 0.83 | 18.4 MB |
 
 ### MDX — 0.0%
 
@@ -484,7 +484,7 @@ Generated: 2026-09-02T09:14:14.243Z
 
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
-| Python | 11.3 MB | 99.7% | 18.95 |
+| Python | 11.4 MB | 99.7% | 18.95 |
 | Dockerfile | 6.1 KB | 0.1% | 0.01 |
 | Shell | 23.4 KB | 0.2% | 0.04 |
 | Io | 2.6 KB | 0.0% | 0.00 |
