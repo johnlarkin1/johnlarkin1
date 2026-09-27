@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-09-26T09:39:30.495Z
+Generated: 2026-09-27T10:19:12.727Z
 
 - **Repos analyzed:** 83
 - **Repos skipped** (no language data or all excluded): 9
@@ -10,8 +10,8 @@ Generated: 2026-09-26T09:39:30.495Z
 
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
-| 1 | TypeScript | 1032.78 | 43.4% | 24 |
-| 2 | Python | 598.15 | 25.2% | 66 |
+| 1 | TypeScript | 1032.77 | 43.4% | 24 |
+| 2 | Python | 598.17 | 25.2% | 66 |
 | 3 | Rust | 205.85 | 8.7% | 9 |
 | 4 | Swift | 179.60 | 7.6% | 4 |
 | 5 | JavaScript | 140.23 | 5.9% | 36 |
