@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-10-03T10:09:52.479Z
+Generated: 2026-10-04T10:50:32.367Z
 
 - **Repos analyzed:** 84
 - **Repos skipped** (no language data or all excluded): 9
@@ -11,15 +11,15 @@ Generated: 2026-10-03T10:09:52.479Z
 | Rank | Language | Weighted Contributions | % | # Repos |
 |------|----------|----------------------|---|---------|
 | 1 | TypeScript | 1053.73 | 43.3% | 25 |
-| 2 | Python | 604.72 | 24.8% | 68 |
+| 2 | Python | 604.71 | 24.8% | 68 |
 | 3 | Rust | 205.85 | 8.5% | 9 |
 | 4 | Swift | 179.60 | 7.4% | 4 |
-| 5 | JavaScript | 151.46 | 6.2% | 38 |
+| 5 | JavaScript | 151.70 | 6.2% | 38 |
 | 6 | HCL | 76.44 | 3.1% | 9 |
-| 7 | Shell | 65.79 | 2.7% | 37 |
+| 7 | Shell | 65.78 | 2.7% | 37 |
 | 8 | Go | 44.09 | 1.8% | 5 |
 | 9 | Makefile | 16.06 | 0.7% | 39 |
-| 10 | Jupyter Notebook | 14.26 | 0.6% | 5 |
+| 10 | Jupyter Notebook | 14.03 | 0.6% | 5 |
 | 11 | PLpgSQL | 5.87 | 0.2% | 4 |
 | 12 | Dockerfile | 4.54 | 0.2% | 17 |
 | 13 | Jinja | 3.93 | 0.2% | 2 |
@@ -27,7 +27,7 @@ Generated: 2026-10-03T10:09:52.479Z
 | 15 | C | 2.00 | 0.1% | 3 |
 | 16 | Vim Snippet | 1.05 | 0.0% | 1 |
 | 17 | Astro | 0.99 | 0.0% | 1 |
-| 18 | Objective-C | 0.83 | 0.0% | 1 |
+| 18 | Objective-C | 0.82 | 0.0% | 1 |
 | 19 | MDX | 0.47 | 0.0% | 2 |
 | 20 | Mako | 0.09 | 0.0% | 2 |
 | 21 | Witcher Script | 0.02 | 0.0% | 1 |
@@ -93,14 +93,14 @@ Generated: 2026-10-03T10:09:52.479Z
 | johnlarkin1/odozi | 130.37 | 932.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.89 | 31.9 MB |
+| steipete/CodexBar | 0.89 | 32.1 MB |
 
 ### JavaScript — 6.2%
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/johnlarkin1.github.io | 75.84 | 153.3 KB |
-| Rebar-Team/y-redis-server | 28.49 | 1.7 MB |
+| Rebar-Team/y-redis-server | 28.73 | 1.8 MB |
 | Rebar-Team/download-pdf | 8.04 | 25.0 KB |
 | johnlarkin1/github-pr-colorizer | 6.75 | 13.2 KB |
 | Rebar-Team/app | 4.96 | 180.8 KB |
@@ -171,7 +171,7 @@ Generated: 2026-10-03T10:09:52.479Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| Rebar-Team/y-redis-server | 6.11 | 378.3 KB |
+| Rebar-Team/y-redis-server | 5.89 | 378.3 KB |
 | johnlarkin1/little-book-of-linalg | 4.00 | 2.6 MB |
 | johnlarkin1/wnn-connectome | 3.65 | 65.0 KB |
 | johnlarkin1/rebar-mono | 0.48 | 20.5 MB |
@@ -241,7 +241,7 @@ Generated: 2026-10-03T10:09:52.479Z
 
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
-| gnachman/iTerm2 | 0.83 | 19.4 MB |
+| gnachman/iTerm2 | 0.82 | 18.5 MB |
 
 ### MDX — 0.0%
 
@@ -445,10 +445,10 @@ Generated: 2026-10-03T10:09:52.479Z
 | Language | Bytes | % of Repo | Weighted Contributions |
 |----------|-------|-----------|----------------------|
 | Dockerfile | 1.3 KB | 0.1% | 0.02 |
-| JavaScript | 1.7 MB | 81.4% | 28.49 |
-| Jupyter Notebook | 378.3 KB | 17.5% | 6.11 |
+| JavaScript | 1.8 MB | 82.1% | 28.73 |
+| Jupyter Notebook | 378.3 KB | 16.8% | 5.89 |
 | Shell | 6.8 KB | 0.3% | 0.11 |
-| Python | 16.1 KB | 0.7% | 0.26 |
+| Python | 16.1 KB | 0.7% | 0.25 |
 
 ### johnlarkin1/larkin-vanity-mirror — 35 commits
 
