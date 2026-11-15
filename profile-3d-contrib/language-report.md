@@ -1,6 +1,6 @@
 # Language Distribution Report
 
-Generated: 2026-11-14T11:53:45.298Z
+Generated: 2026-11-15T12:25:14.344Z
 
 - **Repos analyzed:** 86
 - **Repos skipped** (no language data or all excluded): 9
@@ -111,7 +111,7 @@ Generated: 2026-11-14T11:53:45.298Z
 | johnlarkin1/odozi | 130.37 | 932.5 KB |
 | johnlarkin1/afuera | 38.23 | 317.8 KB |
 | doe-ai/doe-mono | 10.10 | 366.9 KB |
-| steipete/CodexBar | 0.89 | 36.9 MB |
+| steipete/CodexBar | 0.89 | 37.2 MB |
 
 ### HCL — 3.7%
 
@@ -226,7 +226,7 @@ Generated: 2026-11-14T11:53:45.298Z
 | Repo | Weighted Contributions | Bytes |
 |------|----------------------|-------|
 | johnlarkin1/wnn-connectome | 1.94 | 34.2 KB |
-| steipete/CodexBar | 0.07 | 2.7 MB |
+| steipete/CodexBar | 0.06 | 2.7 MB |
 | gnachman/iTerm2 | 0.01 | 221.1 KB |
 
 ### Vim Snippet — 0.0%
